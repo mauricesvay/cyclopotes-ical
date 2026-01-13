@@ -3,7 +3,9 @@
 ## How it is implemented
 
 This application runs on Node.js (at least v18.17.1) on a Raspberry Pi server.
-The application fetches events from `https://cyclopotes.cc/event`.
+The application fetches events from `https://cyclopotes.cc/event` using an HTTP POST request.
+By default the request body includes filters and the `start`/`end` dates set to the current month's first and last day (e.g. `{"start":"2026-01-01","end":"2026-01-31",...}`).
+You can override the body by setting the `EVENT_POST_BODY` environment variable to a JSON string.
 An example of the data is stored in `events.json`.
 
 The list of events is transformed into the iCal format:

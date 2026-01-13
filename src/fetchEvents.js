@@ -11,8 +11,42 @@ export async function fetchEvents() {
     return JSON.parse(raw);
   }
 
-  logger.info({ url }, 'Fetching events');
-  const res = await fetch(url);
+  logger.info({ url }, 'Fetching events (POST)');
+  // You can set EVENT_POST_BODY to a JSON string to customize the POST body.
+  // If not set, we default to a body that filters for the current month:
+  // { start: 'YYYY-MM-DD', end: 'YYYY-MM-DD', types: [1,2,3], distance: [0,300], elevation_gain: [0,3000], status: [1,2,3] }
+  const postBodyEnv = process.env.EVENT_POST_BODY;
+  let postBody;
+  if (postBodyEnv) {
+    postBody = postBodyEnv;
+  } else {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = now.getMonth(); // 0-based
+    const start = new Date(year, month, 1);
+    const end = new Date(year, month + 1, 0);
+    const format = (d) => d.toISOString().slice(0, 10);
+    const defaultBody = {
+      start: format(start),
+      end: format(end),
+      types: [1, 2, 3],
+      distance: [0, 300],
+      elevation_gain: [0, 3000],
+      status: [1, 2, 3]
+    };
+    postBody = JSON.stringify(defaultBody);
+  }
+  logger.info({ postBody }, 'POST body');
+
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: postBody
+  });
+
   if (!res.ok) {
     throw new Error(`Failed to fetch events: ${res.status} ${res.statusText}`);
   }
