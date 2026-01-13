@@ -1,10 +1,11 @@
-import { fetchEvents } from '../src/fetchEvents.js';
 import { generateIcal } from '../src/generateIcal.js';
+import fs from 'fs/promises';
 
 (async () => {
   try {
-    process.env.USE_LOCAL_EVENTS = '1';
-    const events = await fetchEvents();
+    // Read sample events directly for testing
+    const raw = await fs.readFile(new URL('../events.json', import.meta.url), 'utf-8');
+    const events = JSON.parse(raw);
     const ics = generateIcal(events);
     if (!ics.includes('BEGIN:VCALENDAR') || !ics.includes('BEGIN:VEVENT')) {
       console.error('FAIL: generated ICS does not include expected tokens');

@@ -25,16 +25,13 @@ The file on the S3 bucket has the necessary permissions to be served over HTTP p
 
 1. Copy `.env.example` to `.env` and edit env values (S3_BUCKET, S3_KEY, etc.)
 2. Install dependencies: `npm install`
-3. Generate the iCal file locally (use the bundled `events.json`):
-   `USE_LOCAL_EVENTS=1 npm run generate`
-4. Generate and upload to S3 (when `S3_BUCKET` is set):
+3. Generate the iCal file and upload to S3 (when `S3_BUCKET` is set):
    `npm run generate`
-5. Logs are written to the file configured by `LOG_FILE` (default `./cyclopotes.log`).
+4. Logs are written to the file configured by `LOG_FILE` (default `./cyclopotes.log`).
 
 ### Environment variables
 
-- `EVENT_URL` (default: https://cyclopotes.cc/event)
-- `USE_LOCAL_EVENTS` set to `1` to use `events.json` instead of remote fetch
+- `EVENT_URL` (default: https://cyclopotes.cc/events)
 - `LOG_FILE` path for logs
 - `S3_BUCKET`, `S3_KEY` for upload
 - `AWS_REGION` (default `eu-west-1`) and AWS credentials via env or instance profile

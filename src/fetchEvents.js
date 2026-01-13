@@ -1,15 +1,9 @@
-import fs from 'fs/promises';
 import logger from './logger.js';
 
 const DEFAULT_URL = 'https://cyclopotes.cc/events';
 
 export async function fetchEvents() {
   const url = process.env.EVENT_URL || DEFAULT_URL;
-  if (process.env.USE_LOCAL_EVENTS === '1') {
-    logger.info('Using local events.json');
-    const raw = await fs.readFile(new URL('../events.json', import.meta.url), 'utf-8');
-    return JSON.parse(raw);
-  }
 
   logger.info({ url }, 'Fetching events (POST)');
   // The POST body filters for the current month by default:
