@@ -1,0 +1,1776 @@
+[
+    {
+        "group": {
+            "id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+            "url": "https://www.instagram.com/paname.gravel.ride/",
+            "name": "Paname Gravel Ride",
+            "picture": "https://cdn.cyclopotes.cc/a937abe4-8c08-4cae-944e-cd7d062be376.webp",
+            "created_at": "2025-12-30T12:27:38.842835",
+            "updated_at": "2025-12-30T12:27:38.842835",
+            "description": "Chaque semaine une sortie Gravel après le boulot pour découvrir les sentier d’IDF 🚵🏼‍♂️⚙️🪵🌳🎙️🍻 \n\n𝗖𝗹𝘂𝗯 𝘀𝘁𝗿𝗮𝘃𝗮 𝗲𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗮𝘂𝘁𝗲́ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 ⬇️⬇️\nhttps://chat.whatsapp.com/CZmv9j429nRKJ710tzlv3q",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": "f23013be-99c8-4bb2-9416-b102cdd068ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "582b24fd-cc3d-4757-bc15-c06e6190083a",
+        "status": 2,
+        "date": "2026-01-01T18:30:00.386Z",
+        "name": "PGR",
+        "description": "Départ 19h30 \nPorte Dauphine, au début de la trace gpx ci-dessous. \n\nGroupe unique (et festif) allure adaptée pour kiff généralisé. \n\n⚠️ Comme à l'accoutumée, pensez casque ⛑️, lumière avec batterie chargée 💡, matériel de réparation et de quoi éviter l'hypoglycémie 🍫 \n\nÇa va être incroyable !!!! Et d'ici là bon réveillon à ceux qui réveillonnent 🎊",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+        "created_at": "2026-01-01T15:51:48.618Z",
+        "updated_at": "2026-01-01T15:51:48.618Z",
+        "slug": "paname-gravel-ride-pgr-2026-01-01",
+        "maps": [
+            {
+                "id": "f8ce65c9-e573-427d-abc0-5a3164b223d6",
+                "map": null,
+                "link": "https://sdq",
+                "name": "NO_ST_Winter Tom Track",
+                "type": 2,
+                "distance": 38880,
+                "event_id": "582b24fd-cc3d-4757-bc15-c06e6190083a",
+                "created_at": "2026-01-01T15:51:48.618151",
+                "elevations": null,
+                "updated_at": "2026-01-01T15:51:48.618151",
+                "elevation_gain": 380
+            }
+        ],
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+        "group": {
+            "id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+            "url": "https://www.instagram.com/saru_ride/",
+            "name": "Saru Ride",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195556/29263174/1/large.jpg",
+            "created_at": "2025-12-30T10:41:12.301384",
+            "updated_at": "2025-12-30T10:41:12.301384",
+            "description": "🌏 Paris - Île-de-France\nPour faire bouger vos gambettes\n🗺️ Extra muros\n⏰ Tous les jeudi\n🍌 Allure 30-35km/h 🍌\n🐵 Rejoignez nous 🐒🦧🦍",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2b77cb98-325a-4f7f-aa83-6966cefd6e30",
+            "discord_guild_id": "03d42e57-f667-47a7-8456-9299d60801b0",
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-01T19:00:00.000Z",
+        "name": "Saru",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+            "url": "https://www.dahucafevelo.fr/",
+            "name": "DAHU Cycling Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1324289/37255137/1/large.jpg",
+            "created_at": "2025-12-30T12:29:05.243008",
+            "updated_at": "2025-12-30T12:29:05.243008",
+            "description": "Bienvenue sur le club Strava de DAHU - Café & Atelier vélo. C’est ici que vous pourrez suivre l’organisation des sorties à vélo, au départ du café !\n\n📍 Lieu de RDV : 42 rue Cauchy, 75015 PARIS\n⚠️ Port du casque obligatoire et respect des consignes de sécurité.\n\nDahu - Café & Atelier vélo : coffee shop, atelier de réparation vélo et station de lavage pour l'after !",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2fb17bdf-60ef-4b94-a37e-751828c9a3ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "5b807624-12ce-46af-8f21-e433e6d847fa",
+        "status": 2,
+        "date": "2026-01-04T08:15:00.000Z",
+        "name": "Chasse au Dahu social ride #28 Bonne résolutions",
+        "description": "On vous propose une nouvelle chasse au Dahu au départ du café, pour fêter la rentrée et prendre de bonnes résolutions !\n\nUne belle occasion de rouler tous ensemble, de profiter en peloton et de terminer autour d’un bon café chaud, pour le premier social ride de 2026 !\n\n📍 Départ : Dahu - Café & Atelier vélo - 42 rue Cauchy, Paris 15\n\n🗓 Le dimanche 4 janvier\n\n⏰ RDV à 9h00 - départ à 9h30\n\n📏 50km — 22-24 km/h de moyenne (28-30km/h sur le plat), bonne ambiance : on part ensemble, on roule ensemble & on rentre ensemble !\n\n🗺️ Map à venir\n\n⚠️ Inscription recommandée / Port du casque obligatoire / Kit de réparation / Respect des consignes de sécurité et du code de la route\nDahu décline toute responsabilité en cas d'incident.",
+        "diversity": 1,
+        "strava_event_id": "3441477302569704882",
+        "discord_message_id": null,
+        "group_id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+        "created_at": "2025-12-31T16:05:14.568Z",
+        "updated_at": "2025-12-31T16:05:14.568Z",
+        "slug": "dahu-cycling-club-chasse-au-dahu-social-ride-28-bonne-resolutions-2026-01-04",
+        "maps": [
+            {
+                "id": "652e521b-7597-4061-8947-aa623b705387",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 50000,
+                "event_id": "5b807624-12ce-46af-8f21-e433e6d847fa",
+                "created_at": "2025-12-31T16:05:14.568273",
+                "elevations": null,
+                "updated_at": "2025-12-31T16:05:14.568273",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+            "url": "https://www.sanslesroulettes.fr/",
+            "name": "Sans Les Roulettes",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/796901/17826609/4/large.jpg",
+            "created_at": "2025-12-30T12:30:12.03756",
+            "updated_at": "2025-12-30T12:30:12.03756",
+            "description": "Association loi 1901 - adhésion en bio⬇️\nSocial ride chaque 1er dimanche du mois\nBoucle au départ de Paris - Finish au bar ☕🍻\n\nhttps://www.instagram.com/sanslesroulettes/",
+            "default_pace": null,
+            "default_type": null,
+            "strava_club_id": "07a2a981-8afb-4289-a286-c9c579158996",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "c18d0fdf-cb1e-4689-b204-6b7f39a84cfc",
+        "status": 2,
+        "date": "2026-01-04T08:45:00.000Z",
+        "name": "Winter Warriors #16 : Grimpette et Galette",
+        "description": "*MAP RACCOURCIE*\n\nComment mieux commencer l'année qu'avec la traditionnelle sortie Grimpette et Galette ! 👑\n\nOn vous emmène sur un parcours de 90km dans le nord.\nPensez à bien vous équiper en fonction des températures !⛄️ À dispo si vous avez besoin de conseils\n\nAu menu :\n⏱️ Rdv 9h45 - département 10h00\n📍 Départ parvis de la Gare du Nord\n🥐 Pause boulange km 53 (Luzarches)\n🍻🫓 Finish Galette aux Bledards\n\n63Km - 500 D+\n\nVitesse : 2 groupes minimum avec meneur d’allure 25-27km/h et 28-30km/h\nPossibilité de rouler en autonomie\n\n⚠️ Indispensable pour participer :\n- Être majeur\n- Casque\n- Kit de réparation (CAA, outils, pompe)\n- Ravito\n- Assurance responsabilité civile\n\nDes questions ? DM Instagram ou mail à contact@sanslesroulettes.fr\n\n💚",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+        "created_at": "2026-01-02T11:17:45.747Z",
+        "updated_at": "2026-01-02T11:17:45.747Z",
+        "slug": "sans-les-roulettes-winter-warriors-16-grimpette-et-galette-2026-01-04",
+        "maps": [
+            {
+                "id": "a93cb0ad-22aa-4101-a897-cb9213b5a3d6",
+                "map": "syiiHc_kMMdBKn@q@bDIAGDk@|EQAU\\CVyNfM{@|@O^q@FZtFl@tId@nDbAfJjB|OFt@l@tEsAbO}ErV_@`Be@nCaCbPVp@|CvFNnAMj@SJwQvG}Bt@?JELgVfg@_AxBaAnBo@hAgGrMwC~FGBQRe@hBYt@mGpMOPcCdBQ?mBqASD_@TcFhAeA|@wAtAiExD_DbCsHfGaC|BeE|EWNoFdEcE|DeAlAkDhIKNSNS?SJ_@b@]BCRGHsJfDeBh@q@d@E?_GxBkAh@_H`E{ApAGG_AjA{@j@YJcF^_Aw@SC}BmB}CoCsC{BGIDUEWIGQHKMeJyGm@YmBOJ@uDSsFOgFBESKIE?IDGVqGe@wEi@QKYIq@AcDy@ODWb@aA_AqAu@OUEUCeEe@@oCCmGMCMOWUSWEa@@KFWGCPsC_AeOmEUISOeA[s@Mg@EMGwCP?CiEZq@P_Bp@aGtCmAT_ACIBYEc@OKMgFwAEBWGkI}BOCID}A_Aw@ScB}@wAm@sDkBgE}BaA]YS_Eq@OD_Cc@QOeCc@aJkB{@MiAIyAUi@O{@_@gAo@iB_Bo@u@{@kBW]mFvFkAxA{HtHkJ`KgH~HwErGKSqCiDcDfFqBkEiBsCsGqHKIMHkBpE[d@w@r@_@H[Ga@NGH?LS`@w@PiBDi@SwDwEe@e@_Ai@WGu@?g@HGAGL_@X]^Wl@]dAcBvG_BfDWP}BdA]JIAe@Wa@EuThACIKGIHALaKh@OAIQiEnDsCvBEMGGmTwIUGS?m@sBl@yAAQo@uB_@_BYeDcDmIm@eAeAkAmGyGcIgIm@m@OGGQK?_@NsBfAqF|@SCy@aA_@Qo@Mi@GaB\\OFS?[KuAaAYe@Om@KcAm@kAe@_@uCaB@MYqBKqACiAKaAa@_Bo@cBKOiAiCWqBwB{Sw@h@ONq@`@oA\\cB^SP}@tAS`@IVUrAMhCQXIBe@IGeBKiLqGrEkA~@_@f@{C~EiC`DSBKAKME?KDY\\ITAz@S\\mBvB[TuCbBa@\\iBfCo@p@IF[HeBFeCb@g@Xu@|@MJk@Vk@@]EkCg@[Ku@a@q@i@iBoAqAm@m@IiCFsAEe@E{@Wm@[o@g@kAeAeAkAYa@w@eBeAyCoDoLcCaFs@iBsB_JYc@{EyFuBaDy@aAQa@m@o@KQIa@GEIAGDGTUGkAiAsD{Ew@dFu@nG?dCDhAN`B?RFVBf@FN`@bD@t@[hEAfE@jCEhAMlBE`GIhBOhBi@~De@tCm@pCc@x@M_@Y_@YYa@Uq@Qw@Go@@m@Ps@b@m@x@Sd@w@fCMXQViB|AqAhB}DlE]Ne@Dg@AYI_@U_@[yD}Gs@{@kAkAsBeAcSmEs@Su@a@kJuPs@{Aw@gAeCuE_@{@Uw@UkAa@_BWsAs@aB{@gAa@m@MKSG[]Oc@{@eAMWe@k@m@}@wA_FiAgFcB{EqDmPaAiDi@_CYu@{@iBnAnDABPn@CM@C`@lAi@_CYu@{@iBo@mBWk@gCwEUu@KEq@i@_CaEYYEUMIuBiCO]Lg@tCiETg@b@}BCc@cI~C_B\\K[[oCWaB}A{DuBsEQYiSyRgBoAeDeBYm@kAuHQ_@SMaAkBo@aC_@s@}@qA_@qCKuAGoFS}DuAyH}@wDNc@D_@]mXFuHKsKA_I{B{WcBgOGaDFyDEmSEgEwAyMw@oGCkC?iDL{Cn@_IX{EBoCAs@YiDEyALoBv@mIPu@l@iBtCyFVu@|@kDhAoD^wAf@gC\\mCp@yMh@{EZoGDUlB`ANBvDfBjCbAtFb@l@Ah@Jd@KdAs@l@q@bCcDv@y@pAg@{AsE{@oE}@wCsA}CwAcC`@g@JCNB\\^j@JdAD|@ANeA^{AFgAHmD?yBEiCOqCKmAK_DB}AjAqKDaC@}JNwIT}^Zgq@x@sA^_@^IfA@ZOPYs@}AeBqCu@{ASw@De_@Xi\\ZkOHi@HQLJJ@ZRnB~EvA`Df@~@v@dAtAnAF\\PTHDTAr@fAlIfHrCnCRf@Df@Rd@RLX@\\J\\^EHpHjJhCpC|@z@fB|AbAv@nGjElBfAvCxAvA`AhAhAvKfMfJjJfAz@pCdB|@n@pJvIv@l@l@^n@ZnAb@`ATdFj@h@NhAh@dAz@h@l@b@n@tAhCh@v@hAdAjEfCpGzFfEjCRXLXMzA?j@RxC?h@[`C[bAU`@qA|Ao@nAgCrJEt@_@pY?`Ib@xf@JvTRtDPxBrAnKHz@\\fHZ|BJxAVrIEnAk@tFEz@@T`CJjQBdDJpDXhCZhVjF`H~AzARrGxArAPhBj@|H`Bp@JdADjAAZCdASvCy@~Ai@v@]~AIdAOfCe@fG_BF@NTHBLM@OCM]i@Bh@CN@NDFHBLMP@|JfLf@fAd@tA~@|EBb@h@JFH@JLAvH`BpKbCd@P`@TdA~@bBnBPV`AtDbDvGZb@Tf@fAxAx@b@~A|BHBBOd@u@|XhLrRtHVR^JNHJLFl@_DtMi@jD_AnHIESFMVA\\BLNPk@hC[rCShFE\\QTI^?XD^JP@d@ShKHx@CH?^ETOjGKbIBXHJ`FlAJJN`@Fl@CTBTHNLDJEJSX]NCNBrAjAbDhDz@r@b@ZxDlB|E~CrAnAnBfDb@~A|@|Ah@^`@l@rAnAjAz@lAt@jB~@rAv@fErBRj@ALBJ_@dCg@jCu@nFrIfDJ@dC|@xBp@ZQJ@TN~@z@r@f@|DlBj@^jB`BRDBPJRjAfArDvC|FlFtDvCnBdB`D~C|@hAbHnLrG`JdAlBdAzB`BfEb@vAhAxF\\cC\\w@PQjAY~@PpAuBt@eBd@s@dHuJ`@[jDsEp@oARg@`CgE|DaHn@{@bAeB`AiBzQgYv@JFC`@?vEiA~@OzEoAPA|@HZHbBr@FL^NxBv@~Bp@jL~AbGn@l@@`@GrJwCbBq@jFyA~@AL@HHLIHDp@@HCtAN|@f@bAD|Gv@xFt@f@PtHhDv@NN?fAQrFkAH@tGyArKyBbAWtDsAXEdBq@`CgArBs@LMBKnAg@`AD~@?d@`@`FrGzCbETo@B[@yJB_Aj@K~RFtB?zACvABTKlZFjGDtD?zEErGJ|H@tCCZZX@f@PtAK`@I`E?~FKRGRa@N@DCL[PLp@e@JM|E_ElF{DlHeG~J}HPGNAlFuf@HcBNiP?qCbB@|BCd@B~AAhDLpATlFr@|BPrADTBTJlABRAPSH}@`KmUJDAEz@wB`BuD?Gn@wAlCjDfFkNnB`B",
+                "link": "https://www.strava.com/routes/3442507849392130288",
+                "name": "Grimpette et Galette 2026",
+                "type": 1,
+                "distance": 63497,
+                "event_id": "c18d0fdf-cb1e-4689-b204-6b7f39a84cfc",
+                "created_at": "2026-01-02T11:17:45.747865",
+                "elevations": "[61.98,62.7,62.57,62.68,62.5,62.55,62.87,63.22,63.09,62.74,68.87,67.26,66.74,65.74,70.81,72.46,73,71.89,75.48,75.09,74.53,71.84,68.24,69.78,70.59,71.65,71.05,68.98,67.01,66.33,66.52,72.8,72.71,72.5,72.13,43.46,41.95,40.97,40.71,37.75,37.02,36.9,36.53,36.19,34.8,30.64,30.86,30.81,31.12,34.07,34.38,35.19,32.43,32.29,33.02,35.81,34.21,34.57,36.48,33.83,33.61,31.61,32.6,31.82,34.82,34.95,35.23,35.51,35.19,33.97,33.75,33.13,32.74,27.44,32.45,33.09,33.08,30.24,30.58,28.98,27.57,27.44,28.98,31.79,32.65,30.11,29.89,29.13,27.62,28.21,27.99,27.81,27.43,27.01,27.07,27.4,27.41,28.72,30.06,32.51,32.49,30.48,30.22,31.94,32.06,32.27,32.34,32.46,32.6,30.88,31.23,30.73,29.98,29.47,32.05,31.24,30.61,28.64,29.8,29.65,29.26,29.34,27.88,28.39,28.29,28.1,27.67,27.22,26.6,26.32,26.67,26.78,27.63,31.65,33.31,34.15,34.66,33.4,31.31,30.44,30.25,28.09,28.05,30.55,32.15,30.97,28.91,29.3,29.81,29.89,30,30.02,30.14,29.81,29.84,29.95,28.78,28.78,28.85,28.82,28.68,29.02,30.7,29.18,24.24,29.1,31.59,31.01,31.03,28.75,29.89,37.43,42.8,41.97,42.47,41.83,40.91,39.1,39.48,40.68,38.88,36.34,36.38,33.71,34.74,39.69,39.21,42.9,44,44,40.99,39.86,38.16,40.56,46.21,46.05,46.01,41.89,41.82,43.86,43.93,44.55,44.39,43.98,43.32,42.16,42.5,43.15,42.45,44.62,45.12,44.4,44.78,45.87,45.96,45.96,45.54,44.68,43.97,43.69,43.89,42.34,41.95,42.06,42,41.99,42,42,42.21,47.36,47.1,47.09,47,46.96,46.98,46.84,46.64,43.18,42.45,42.68,42.78,47.06,47,47,48.78,49.45,50.03,51.08,52.82,55.06,59.74,61.21,63.41,64.42,67.52,68.72,68.9,68.9,68.9,69,69.15,70.43,70.04,73.79,75.73,77.58,77.45,76.06,75.59,75.26,75.17,74.46,74.82,75.62,78.63,81.26,82.08,88.59,89.08,94.22,98.06,100.22,101.98,107.96,116.1,117.58,125.76,130.84,168.26,168.8,168.98,170.08,169.69,166.34,165.89,165.35,165.89,166.18,166.63,168.29,169.37,169.79,169.57,167.31,168.99,168.9,168.69,168.11,166.53,168.37,168.33,168.23,168.2,168.05,167.73,167.24,167.17,167.79,167.54,166.69,166.49,165.99,165.95,164.26,164.9,164.9,165,164.4,164,164.77,166.74,167.2,169,170.75,171.63,173.48,173.64,173.62,174.14,176.87,176.71,175.29,174.22,176.58,176.9,177.47,178.37,179.54,181.8,182.32,182.34,182.78,183.1,184.98,186.51,188.05,182.2,183.25,177.97,174.3,167.68,166.62,166.09,165.9,165.68,165.5,165.33,165.26,165.47,164.94,160.19,153.26,150.66,142.18,139.98,138.41,137.5,137.38,137.74,138.01,138.49,141.04,142.01,147.9,150,152.93,152.91,152.37,154.91,153.59,151.93,147.98,147.27,146.65,148.17,148.44,148.99,149.41,150.41,151.95,153.26,153.66,153.46,153.8,155.93,156.38,157.49,157.47,157.31,156.32,158.43,154.81,154.64,154.07,153.37,153,152.73,152.23,145.07,143.92,138.93,126.72,115.31,114.31,113.29,109,108.67,108.31,108.89,108.92,108.55,107.6,105.77,105.56,104.78,103.6,103.32,103.29,103.33,102.76,101.59,100.17,100.12,100.02,100.51,99,98.17,95.38,92.89,93.76,91.64,90.89,91.06,91.51,91.44,92.35,92,91.99,93.76,91.64,90.89,91.06,91.55,91.47,89.51,89.67,89.29,87.98,85.2,84.77,84.82,84.81,85.09,85.08,84.58,84.8,84.48,85.7,85.25,92.68,93.65,93.96,95.73,97,98.48,98.96,98.72,96.81,98.16,95.98,95.09,97.15,97.59,97.47,97.89,101.9,102.66,105.36,108.9,108.52,107.97,107.76,107.1,107.68,107.63,107.88,112.94,113.23,112.91,110.9,108.21,106.56,109.1,113.61,117.9,118.37,117.13,118,118.83,118.83,118.07,117.05,116.79,117.2,117.13,117.22,118.07,119.96,119.08,118.29,118.89,121.2,121.25,120.47,120.12,118.66,119.68,118.66,115.8,116.31,113.48,113.2,114.28,113.82,113.77,114.9,113.9,114.03,114.3,114.82,114.69,113.87,113.5,111.76,111.24,106.19,106.68,107.98,109.24,111.94,111.42,111.35,111.27,111.13,110.97,110.18,108.89,108.79,108.87,109.94,109.51,108.36,107.87,105.9,105.46,104.58,105.81,111.93,113.03,114.14,113.5,112.9,117.06,118.97,119.52,119.6,118.41,117.99,117.73,117.56,117.88,119.08,119.61,116.24,111.7,111.06,111.51,111.78,111.83,111.91,111.82,112.45,113.33,112.16,111.87,111.98,112.44,112.78,112.85,112.83,113,112.21,113.3,113.51,113.37,113.41,113.36,113.42,113.45,113.42,113.28,117,116.38,115.74,115.9,115.58,114.18,115.84,114.27,113.63,113,109.98,106,106.14,103.96,103.2,99.13,98.69,98.1,96.88,96.8,94.64,90,90.04,89.12,89.7,90.76,91.92,95.22,94.61,93.63,90.5,92.58,82.58,81.74,81.07,80.31,79.84,78.03,77.86,76.5,77.24,77.95,80.34,80.28,79.71,78.94,81.27,89.86,97.03,89.86,93.97,95.25,96.51,95.64,95.24,97.03,97.9,100.79,102.77,103.98,103.83,104.07,108.5,107.25,108.08,112.16,115.2,132.17,120.81,115.53,102.92,100.4,97.22,91.95,91.01,90.25,89.49,88.99,87.51,86.98,86.9,86.43,86.41,87.24,88.89,87.47,87.34,87.31,87.23,87.04,87,87,87.17,87.04,87.19,87.31,87.31,87.23,87.04,87,79.01,77.82,76.65,72.59,71.96,71.55,71.53,71.38,71.63,68.63,57.51,56.52,54.65,52.04,53.8,54,54.94,60.82,61.36,61.82,62.06,61.53,62.58,62.43,62.29,61.74,75.34,72.8,73.16,73.96,74.19,74.16,73.45,71.52,70.12,68.57,68.74,69,69,69,69,68.94,67.48,65.72,63.84,63.73,64,64.12,63.88,63.24,62.5,61.94,62.72,62.99,63.07,63.14,63.09,61.37,62.02,61.31,60.83,59.29,59.11,58.82,58,57.68,57.11,56.47,56.02,55.91,56.21,56.94,57.01,56.95,55.4,55.63,55.67,55.2,52.38,51.78,49.9,51.14,51.02,50.22,49.88,50,51.32,52.03,51.21,51.21,50.61,50.67,50.07,50.14,50,50.51,51.53,55,49.36,49.29,50.56,49.37,48.51,48.11,47.64,47.1,47.08,47.03,47.03,45.12,44.59,44.49,44.51,44.32,42.46,41.64,41.45,39.35,41,41.01,40.51,38.73,38,36.97,36.64,36.31,36.62,36.98,37,36.9,36.98,37.74,37.05,37.63,37.48,35,35,33.92,33.87,34.55,39.58,39.05,39,39.34,39.31,37.56,36.13,35.97,35.34,36.18,36,36.66,36.18,34.4,33.7,33.37,33.83,34.11,32.62,32.53,29.47,26.82,26.75,26.56,30.88,30.87,27.85,27.67,27.72,27.46,28.01,27.88,28.32,28.44,27.1,26.51,28.32,26.38,27.44,28.35,35.5,37.91,37.98,37.8,35.45,35.35,36.64,38.36,39.69,42.43,41.41,37.71,35.51,37.29,37.31,37.03,39.52,40.77,38.05,38.21,43.6,34.39,33.82,33.99,37.71,39.33,39.8,36.19,39.11,39.9,39.45,39.13,36.84,39.28,37.89,39.63,42.06,39.68,43.02,43.95,44.53,45.07,45,45.36,49.8,50.79,50.83,50.67,51.17,51.33,51.6,52.49,55.63,56.77,56.69,57.62,61.14,64.19,64.35,64.56,56.39,52.56,61.19,57.38,59.19,58.08,56.73,55,55.22,56.7,61.21,59.69,57.25,56.77,56.54,57.71,58.47,59.78,61.99,63.01,63.03,62.95,60.62,57.45,57.31,59.01,55.57,58.12,52.17]",
+                "updated_at": "2026-01-02T11:17:45.747865",
+                "elevation_gain": 483
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+            "url": "https://instagram.com/mayo.jaune",
+            "name": "Mayo Jaune",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195574/29263702/2/large.jpg",
+            "created_at": "2025-12-29T14:24:57.59123",
+            "updated_at": "2025-12-29T14:24:57.59123",
+            "description": "Balade vélo tous les lundis 20-35km.\nRDV Bastille à 19h45. Départ 20h\nAllure à 25+km/h (ce n’est pas la moyenne)\nTout type de vélo",
+            "default_pace": 1,
+            "default_type": 1,
+            "strava_club_id": "0342ae0f-3e9a-4363-9420-17b0ec1f6826",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "9c666975-a92b-4e0f-944d-c392201a94da",
+        "status": 3,
+        "date": "2026-01-05T19:00:00.000Z",
+        "name": "Mayo Jaune",
+        "description": "⏰ RDV : Lundi 5 janvier à 19h45 (départ 20h) sur la place de la Bastille à Paris ;\n📏 Distance : 18km ; D+ : 160m ;\n📍 Arrivée : Les Blédards, 161 Quai de Valmy, 75010 Paris ;\n⏩ Allure sur plat : 25+km/h ;\n🗺️ Cartographe : @Extragornax ;\n🏁 Guides : On verra sur place ;\n🌍 Tout le monde est le bienvenu.",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+        "created_at": "2026-01-05T11:53:45.083Z",
+        "updated_at": "2026-01-05T11:53:45.083Z",
+        "slug": "mayo-jaune-2026-01-05",
+        "maps": [
+            {
+                "id": "5eb827f8-afce-4b9f-b227-f16d570b42cd",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 18000,
+                "event_id": "9c666975-a92b-4e0f-944d-c392201a94da",
+                "created_at": "2026-01-05T11:53:45.083605",
+                "elevations": null,
+                "updated_at": "2026-01-05T11:53:45.083605",
+                "elevation_gain": 160
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+        "group": {
+            "id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+            "url": "https://www.instagram.com/panorafixe/",
+            "name": "Panorafixe",
+            "picture": "https://cdn.cyclopotes.cc/b29bc36f-22a1-427f-964a-50ac7ca8b8ee.webp",
+            "created_at": "2025-12-30T12:21:45.305476",
+            "updated_at": "2025-12-30T12:21:45.305476",
+            "description": "💥🤘 Ride fixies\n📅 Lundis 19h45 - départ 20h\n📍 Rdv Parvis Hôtel de ville\n💨 Allure 30 km/h sur le plat\n\ndiscord.gg/zDdSD7hyUa",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-05T19:00:00.000Z",
+        "name": "Panorafixe",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+        "group": {
+            "id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+            "url": "https://www.instagram.com/ride_alternatif",
+            "name": "Ride Alternatif",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1216313/29939647/4/large.jpg",
+            "created_at": "2025-12-30T10:43:09.234618",
+            "updated_at": "2025-12-30T10:43:09.234618",
+            "description": "Rides urbains tous les mardis soirs, départ Paris\n🌶️🌶️ : Allure de 30-35km/h sur le plat\n🌶️🌶️🌶️ : Allure 35km/h et + sur le plat",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "67951bcd-b2bb-446d-8d4b-397c94718cfe",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-06T19:00:00.000Z",
+        "name": "Ride Alternatif",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+            "url": "https://www.instagram.com/paname.gravel.ride/",
+            "name": "Paname Gravel Ride",
+            "picture": "https://cdn.cyclopotes.cc/a937abe4-8c08-4cae-944e-cd7d062be376.webp",
+            "created_at": "2025-12-30T12:27:38.842835",
+            "updated_at": "2025-12-30T12:27:38.842835",
+            "description": "Chaque semaine une sortie Gravel après le boulot pour découvrir les sentier d’IDF 🚵🏼‍♂️⚙️🪵🌳🎙️🍻 \n\n𝗖𝗹𝘂𝗯 𝘀𝘁𝗿𝗮𝘃𝗮 𝗲𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗮𝘂𝘁𝗲́ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 ⬇️⬇️\nhttps://chat.whatsapp.com/CZmv9j429nRKJ710tzlv3q",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": "f23013be-99c8-4bb2-9416-b102cdd068ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "dafb2303-3b96-4907-a0b1-5ff13066087c",
+        "status": 3,
+        "date": "2026-01-07T19:00:00.000Z",
+        "name": "PGR",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+        "created_at": "2026-01-06T20:28:31.604Z",
+        "updated_at": "2026-01-07T18:01:00.983Z",
+        "slug": "paname-gravel-ride-pgr-2026-01-07",
+        "maps": [],
+        "types": [
+            null
+        ]
+    },
+    {
+        "group_id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+        "group": {
+            "id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+            "url": "https://www.instagram.com/ridedumercredi",
+            "name": "Ride Du Mercredi",
+            "picture": "https://cdn.cyclopotes.cc/d3c10432-1d74-4332-bf9a-cff0e2597241.webp",
+            "created_at": "2025-12-30T12:42:27.420185",
+            "updated_at": "2025-12-30T12:42:27.420185",
+            "description": "𝐄𝐑𝐃𝐄𝐇𝐄𝐌 !",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-07T19:30:00.000Z",
+        "name": "RDM",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "ace37475-a574-494e-9032-825855e3b5f8",
+            "url": "https://www.instagram.com/gow_girlsonwheels/",
+            "name": "Girls On Wheels",
+            "picture": "https://cdn.cyclopotes.cc/95bd8fcb-560a-4c39-99ff-bb3e856d90ec.webp",
+            "created_at": "2025-12-30T12:22:31.875178",
+            "updated_at": "2025-12-30T12:22:31.875178",
+            "description": "Un collectif vélo entre femmes et minorités de genre, basé à Paris !\nRDV 20h45 les mercredis Métro Cité 🚲\nDépart à 21h",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 2
+        },
+        "id": "052bf22f-25d6-4103-9037-3b53456459c9",
+        "status": 3,
+        "date": "2026-01-07T20:00:00.000Z",
+        "name": "GOW",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "ace37475-a574-494e-9032-825855e3b5f8",
+        "created_at": "2026-01-07T10:31:22.561Z",
+        "updated_at": "2026-01-07T10:31:22.561Z",
+        "slug": "girls-on-wheels-gow-2026-01-07",
+        "maps": [],
+        "types": [
+            null
+        ]
+    },
+    {
+        "group": {
+            "id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+            "url": "https://www.instagram.com/parischillracing/",
+            "name": "Paris Chill Racing",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/24435/555931/4/large.jpg",
+            "created_at": "2025-12-30T10:46:22.984593",
+            "updated_at": "2025-12-30T10:46:22.984593",
+            "description": "𝕻𝕬𝕽𝕴𝕾 𝕮𝕳𝕴𝕷𝕷 𝕽𝕬𝕮𝕴𝕹𝕲 Paris est à nous - depuis 2010\nRdv le Mercredi Place de la Republique Depart 21h 25km #parischillracing #werideparis",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "e7968cf2-1f3a-4d48-a3f3-8606cefed8f4",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "1fd15883-8b31-49bc-8cee-b09837cef219",
+        "status": 3,
+        "date": "2026-01-07T20:00:00.000Z",
+        "name": "PCR",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+        "created_at": "2026-01-07T10:31:07.495Z",
+        "updated_at": "2026-01-07T10:31:07.495Z",
+        "slug": "paris-chill-racing-pcr-2026-01-07",
+        "maps": [],
+        "types": [
+            null
+        ]
+    },
+    {
+        "group": {
+            "id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+            "url": "https://www.instagram.com/saru_ride/",
+            "name": "Saru Ride",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195556/29263174/1/large.jpg",
+            "created_at": "2025-12-30T10:41:12.301384",
+            "updated_at": "2025-12-30T10:41:12.301384",
+            "description": "🌏 Paris - Île-de-France\nPour faire bouger vos gambettes\n🗺️ Extra muros\n⏰ Tous les jeudi\n🍌 Allure 30-35km/h 🍌\n🐵 Rejoignez nous 🐒🦧🦍",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2b77cb98-325a-4f7f-aa83-6966cefd6e30",
+            "discord_guild_id": "03d42e57-f667-47a7-8456-9299d60801b0",
+            "default_diversity": 1
+        },
+        "id": "55092f2a-88bb-45d3-a8a0-a7c360e75f7e",
+        "status": 3,
+        "date": "2026-01-08T19:00:00.000Z",
+        "name": "Saru",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+        "created_at": "2026-01-08T09:52:00.808Z",
+        "updated_at": "2026-01-08T09:52:00.808Z",
+        "slug": "saru-ride-saru-2026-01-08",
+        "maps": [],
+        "types": [
+            null
+        ]
+    },
+    {
+        "group": {
+            "id": "db8d898d-290b-4889-8cbd-244fca6defc8",
+            "url": "http://steelcyclewear.com",
+            "name": "Steel Cycle Club Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/150428/3056316/2/large.jpg",
+            "created_at": "2026-01-05T14:44:42.772",
+            "updated_at": "2026-01-05T14:44:42.772",
+            "description": "Members of Steel Cycle club are friends and customers of Steel Cyclewear & Coffeeshop, a Paris based Cycling wear shop and café established by and for cycling enthusiast. \n\nSteel Cyclewear & Coffeeshop \n58, rue de la fontaine au roi\n75011 Paris",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "d2b9579c-d3d7-41a3-a3bc-ff991e1c3a44",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "81c16d98-1c9b-422a-a050-93138cb73025",
+        "status": 3,
+        "date": "2026-01-10T07:30:00.000Z",
+        "name": "Rapha Epiphany Social Ride",
+        "description": "Venez braver les éléments le samedi 10 décembre prochain à l'occasion du social ride Rapha Epiphany. 80km. Route. une part de galette ça se mérite !\n\nInscription ici https://ti.to/steel-cycle-club/rapha-epiphany\n\nLa trace https://www.openrunner.com/route-details/23054161\n\nRdv 8h30 à Lonchamp, parking de du Restaurant Grande Cascade. Finish chez Steel Coffeeshop pour manger une galette tous ensemble au chaud.\n\n",
+        "diversity": 1,
+        "strava_event_id": "3443267786982451020",
+        "discord_message_id": null,
+        "group_id": "db8d898d-290b-4889-8cbd-244fca6defc8",
+        "created_at": "2026-01-05T14:45:30.638Z",
+        "updated_at": "2026-01-09T22:01:09.397Z",
+        "slug": "steel-cycle-club-club-rapha-epiphany-social-ride-2026-01-10",
+        "maps": [
+            {
+                "id": "17b5337c-2763-4c0e-8d13-03486dae1d51",
+                "map": "ykfiHmatL\\_@n@JjB`AhAh@|Ah@~A`@hAHj@@tAELAjDc@~G_ALA`AE|CAlBJdBLhB^nDdAn@Nd@D|@Ap@M~@_@??BAFABJDHB@HADEBO\\[`@]PSL_@LWNMLCNBVDVAN@|@Nx@NJBD?j@Jx@NF@F@XFD?nATLBARShD@|@Jz@Vr@PXZZHF~@d@`A\\D@pAJAp@rApDbAjCDV@P??tCrBjBt@HD?LSlI?JlCd@~Dr@PB~AXrEz@VD\\HRBNT@@PVJPAN?NBZJTA~@u@tJ@VEh@AJCz@?VC`ACd@QdGIjCIj@Mj@Kp@ETMf@[j@CBa@VgBl@q@VA@qAd@gA`@aAZyBVeAJo@FoCZG?Q@A@QJGAIFAFAF@JBJDXFlABt@?DJh@Hx@Jf@D\\Pt@ZRLHf@Nf@Ln@Hb@FzAN\\@jACF@FDHJHLLz@DVRzAf@xFDl@P|DZhHRzDDr@DjAFnANfDJjBBv@Fx@TnE?D@X@h@AD?LDJ@BF?FGd@Ch@OjFSv@ATBVJFBHFPHRRRTZf@L^t@fBTl@d@t@t@xAZn@|@pAdAvAj@r@d@j@ZZjA`AbB|AlAhAt@n@dHrHl@v@bCnDdGtI^h@xGnJLRf@p@n@|@fBdCV\\DH^b@h@l@`@l@HPP`@Pv@Hr@JnAL|BZpEH|@H\\`@fATd@Zf@LTNNNHJBVDr@LJ?@FRl@D@DEBC@Gf@RDBPHLHPRHPv@pAd@Tt@VRHLDNNFHv@hAT\\bA|AlAnA~@`AtDxDpArBf@`ANXTt@b@~B?R?PFXF\\XbCj@|D^hCDn@GzD@bAHvAH|@D`ABpA?d@@jB?n@?PDnANnDLb@Hz@Fb@hAnHXjANj@Hj@P\\~A|FDTH`@RpADd@BR@FDRN^fAjEh@tBHX`@`BPn@BH?TBPE?Px@DPl@`Cn@tCb@fB^zApA~ETp@pA`E`A`ClApCxFzLHPBDFNDJHI????hGbNLTl@tAHNr@~Ap@zAP\\`BrD`@|@BN`@|@P^Rb@p@xABL@`@F^x@`AFH`@v@Rd@FN`D|G@BP`@dBvDXl@Xp@d@dAt@dBKNJVHJDDFPJTHNNGZn@NJbBrDbFzK?LDJMNCL?L?PDb@BLVj@@LLBH?HhCD|AW@@j@LfETvGDfBB|@@D?NBZ?J@R@LHlC^nMPrF@\\@\\ZH?R@NNANAD^L?DB??D@F@z@RdALj@XhAl@bClAHDRFNFLFVNFW`@TDBNHRFjCxAbAf@n@b@TLf@XHD`@JRLRNLHRJLFRJb@VXHND@?|@h@B@fCzArBnAp@`@z@f@x@f@v@b@pBlAzBrAHDdBfAHDHDhBdAFD@EBMBI?Id@cCp@gDBKbBsIDEX{A@IAODAFSJCP@\\DJFJLFL`AdFXfCPrBPlBHr@Pr@Vr@Zj@RTXVv@L`@ETGb@Yb@a@X]dAqAh@g@j@u@b@m@LMDQHYIWT_ARoADa@HiARgIDwADeCHiBJmAN}@TqAj@{CJe@BIPg@Ha@De@NDf@Hv@LVDPBHFHFTHpARRBLBr@FJ@h@IpANxBZl@FRJz@JRAt@HhCZTBRBhEj@JBn@Z~A|@VFb@C`@INALDhEnC~@l@PPtA`CPRNLPHPFL@rGQJANERQRSNUf@iA@@F?BE?IAGCAHi@FCXmAjA}Fd@oBRi@T[TURIt@GBMSEQASBBs@?]?_@@yABe@HWJW`A}@n@wAjA_Ed@wBd@kDnCeJb@aA`CmClAwAX{@p@sGJm@Pu@rAyDFULm@BUBe@Bo@D]BGTh@T^LNZ`@HJrBbC`BdCvGzIh@n@Z\\RLD@JCZ[LSHWF[@]IwAAY@YDWDQJOJIJEJ?L@pDfBB@^l@Vj@JJl@\\BBBT@r@P`ABh@?h@CPO`@SXSLKDGP}@rEi@hBEJEHHRfBtBfApAv@|@zAjB~AjBHJrBdCADDr@DFB@HCBCrA|ArBhCb@x@FL^~@x@rBRb@j@rAbA`Cr@fBJd@Pp@N|@Jz@Hz@@b@AnAAp@Cd@UxFAPCr@[lJGZQNS@SIq@cAQES?MJOPFHBDDFDb@p@f@bBdAlD`C`@j@vGjEvIvFl@Z`@Nb@LnBZvHn@~Kv@@BD?BAB@n@DL?LCHGDB@DDVDHPNPJ\\DN@NKv@H|@P|@\\d@ZPLLLtAbBf@bAp@jB@JCR?H?FBNFJDDLBB@FJBLDNRb@RL@DVv@Rv@N|@FVPj@FVjA`Dh@`ADL?XL@JFHHHBPRBBGJCFCLC|A?\\ATAt@Ct@CtAGl@CFAH@FCFEP@NE|@Aj@?nBG@?XBzFARKt@@J@HJN@r@F|@TfA`@x@|A~Bl@~@CT??g@bPQtEKtCGpAEf@GTmAnFw@~CCJ?JD@FDv@p@v@d@hAXfAJzCPvFd@Z@t@E`@I^OTCx@BbALpBd@Rp@HTHXBPGPCRAT@TDPJ\\BHHJJFJDL@LAJEJKXNr@rADFf@|@fA~BX`@`@`@`@\\dA|@^ZBBDB@BPN^XZ\\|@tBLVr@lAt@vA|@~AHVLXDHFBBB??XF|@FJAPITEbCc@l@Et@CP?PBPHd@^f@b@JDH@D?DAJCHIP[BMBQ?QEa@K]CI??CUC[HiABWBGBEFLHHFBPLfAf@lAh@h@LpARp@HP?l@Kj@eCH]vAcGxAsGXiDNq@tF}Ox@iCtC_K^eD\\{BX{@Te@l@q@p@i@vAaArAaCVc@tCqCxAiAzByB|AsBfA_BlGwK@CjOyWb@_Ab@qAZoAVy@FMHUVa@Xa@jAsAfBsC\\g@^c@tBuB\\Si@O[Q{BiC]a@Yg@u@aBsAu@WMm@_@k@e@_B}Aq@k@MMmCcBaAa@s@GY?eCI{AGQCkAi@UOWSOSO]m@aBQy@KWS]OMMGMCQA_@NkAl@qC`B_@Z[d@c@pBYxBM`A[rAwC|EoApCQJQFQBYAWMUWMWEYA[@g@X_Af@eARk@Pe@Ps@TwA?ERcBFq@Fy@H_@@I@OBQFUHUx@wA^{AJk@@EDOb@gCF]AYAIIk@Mk@Ke@\\sAF]H?@I?EGOG[O}Bw@}OOsBE}@rA}KLwA\\yNDWh@kCTaAJ[NY\\m@p@cAUe@CGCEO_@GCGCEMFeC???QAQM_@u@aAo@s@[a@k@m@uBeCa@c@w@cA_@]mJyKuA{AGeAOsBU}BYeD_@uDEu@kAgMc@kESaCI_BGeBCiAEiCAmC@q@B_BFeABc@\\}DRgBVkCX_Ev@_Cj@iBd@}@LGrAM\\GZ?DSDW]UUUUYq@q@IQUJKk@MSWYIEUECBINCACCGCHi@Fe@Ja@B[f@aDFe@Hs@H{@ASZyB`@wCRoAJYHQJIRKREHJJFJBL?JEHGHKHWB[?]IYKSEm@BiA@_A?K@aB@yBA]EkAGcAKgA_@mEGeAGkBIeGA[IuEAa@MwFCw@EuACiA?w@DeABc@Y[MEKKOm@a@eBGOQc@sCsGIO]s@IS]y@y@aBCGIWEMQ}AIsAOaBoAwFg@wDIq@Ew@Ew@m@_YAg@@_ALcFDaC?y@AuAC{@C}@DgAAQC]Kq@Mi@Wi@[e@QMa@eAMc@_@sAIc@Ea@Ca@?SB_BTcJDcBBm@AECaBBc@AYEWESMaA[NMHa@`@[XMN]j@KZ_@fBQpASjBMjAUrBALKh@Y|@kBlFSt@}@bEWbAOf@W^u@`AQ^eCvImAhEY~@GPMPMJSJ{B`AMHMJKPKRm@~AMNMFMBK@MCMIIOCMe@sC]}CKq@_@kAe@oAQ_@KUOQMMOIKEmBg@MA[HUJc@A_Cg@e@FYTYXU^Mb@WdAmAnGw@pECVLXN\\bBjEFX?LEPy@`AOFOQkAiBMSOOOr@IIAENcAB]CYIc@K]iOa`@y@uAu@q@qAISKe@iAsAkDCI?ICGKKEAIDi@lBm@l@w@RuD\\eBAy@Zk@v@e@jAWvASjBy@bQy@pHy@nE??AJGIIE??cD_@yCw@a@EYOQQMSaAkCUc@k@i@UCU@SFs@\\{BzAOF[PM@WAQKYQa@]}@mAEKGOEMAW?UAQI]MYO[KKUQo@Sa@GQ@UF]NWLG@O?MEKIOOO_@So@GIaAq@m@g@UUMQUc@a@cBOq@y@oC]i@Sc@YuAIQQeC?c@J}@Pq@^qALSXMXAjANfBz@XEJQH]PmAJ{AFODEBAn@QXMd@g@Pc@LYRmALa@Zq@~@aBTi@v@{CPOLOZOx@BTBNGDQb@}BDa@PuBDcAHiBH}BLgATeB@kAO_BG]CS?e@@m@BuABu@DkA?G?M?q@CcBCeAAu@@IMQ[a@g@q@IOCYDc@ZsALm@EYPe@DKRk@V]lAsAh@w@h@u@LUP[To@DSTqAD[T{AJs@@UFCDG@KJSFKHIfAs@BA`Ag@`@O\\EV?J@RFJFXVv@`AJLZb@PVTP@FBDF?@A@C@ICGT]~@eCJSVi@JWLY~@oBFUFQl@aBJUdCiDXe@Vk@v@eBl@sAFOd@eAl@qAHY?UI[QUmBoCk@{@e@o@qAaDm@{Ak@qAc@kACEEm@?k@@_@@GV{@hC{Br@q@XUVa@F[D]N}DBe@Pq@LYt@aAR[R]t@iB^w@Xc@|@aAzAcDf@qAHYV_@LMVIjAGbB]`AY`@Kn@Y\\Y^g@`@s@V[XWVUrBoA`BmAVQp@k@Z]Zc@~AmCnAgDv@}Ad@gAf@{AVuA^iBP]HWD_@@]?GCUEkBKaB?g@HeA`@yBLiAB}@IsBEuBAwAKkDAiAJyADa@l@{CRcAFc@Di@@c@Aq@Cc@kAmHCY@KBKKQIWGe@Ec@AeAAs@FiAF]KSKESRWEAQ?cA?{@?aBCi@Ei@CU}@qD}EyF}EkKSYW]w@{@_@i@]w@M[_@kAIc@C[AWAa@AGCM@K?E?EEEGACBA@AJ@Hg@Zm@h@_A`AsArAi@h@m@d@}AjAKPGTCREd@UvCm@pEEr@SdCSlBc@pCEn@MpDCr@GbBWbJBZBVOF_DbBiFjC??KF_E`CeCdAwC`BMBGAEAGI]wAcAsCMWMKw@i@OGKCIAKDOHyB|AuBzA_BhA{GdFcKlH??KFEKEGIEKAE@KDGHCHCJ{PiFEUa@qBI_@u@oDw@cE[qAKKOGW?oB\\oB\\ST}@xGGVYT{@S??????SEoCy@_EkAmK_D_@MQGMGMMKOVg@Ra@^u@R[n@sA`@u@Rg@[a@U`@g@fAg@`AOd@y@dBKNMJQFKBIA[EYCE^AV?`@AJMAGv@Gn@K^wAlDuC~FGLCCIA[BYBi@NI@O@mAJYBgAHUCc@Ea@G{E_AKA[C?GACECE@CH_@OyAYyAY[UEMAEECKAC@IHc@DmAS}@Qe@I_AOeASg@IUI?IAGCGCEEAE?EBEDCL?FBPHFWnECj@CVStCA\\GdAQpCe@`IKhBE|@I?GHALBLURO\\k@nACBIPIND^DTEBKDODOFgATIKsAT_BVaBX_@DIGM?WHe@FaARM?OBs@N{Cf@]DI@OBEB]FMBw@NM@WNqCb@Y@WDQB}@LsCd@_C\\w@LA@MDMNa@t@A@EHO^Qf@_@rAGl@ElAKv@Q~@Kr@Cz@AtAI|@[v@g@f@g@Jm@Ki@Qi@De@f@Wf@[h@]Ti@H_CF_AEmCq@u@Q_@Di@B{Ax@g@Pg@Bi@Ke@W_@_@]Y]Qc@Mk@@{@XiAd@aAPK?WAIICGEODYHUt@s@lCaDjDmEhAdA?G??B[L{AVoD@e@G}EMqFEcASuBYuBq@mECgANkA~@_EZqARcAhBoILk@fBeHb@kDXqBdB{Ih@yDHqBAk@?E??Em@MAkAG}AXeA@kBIK@MDMJU`@[v@mEvKWt@mB?U@aERc@BkBHsET}@DG@W@C[IUKMMEO?MFw@aDcBsH]gBc@cCg@iA{@cAm@}@g@iAo@gCi@oCUyAKw@_@mBCG??AEIWCMDABIBOAOG[KOKGKAE?OEOCkBmBSS{B{Bi@}AMYCQIKGCG?GBEDCHAJ?FU?{BTcBNE@_Hj@IAO?e@DQBWBU@e@Dg@JgAJeE^sBVUBSBoBP_BJgANI@s@HO@iBLuD^I@cBPAG@F]NUNSTKTIZGv@Gx@KrAWhDENAJA\\ShCGbAI^KVMTWRODIBK@SAYKYYMWK]ESUeC]}BG[EUUaAQa@Oa@o@sA{A_CqAmBc@_AOa@]eBMw@W{@c@cAYi@[{@kBsGOi@Oy@OyAKmAEm@G_@EM@SCGI[GIW]SWYo@Yg@Qa@ESU_AIo@WoCKgBIaBGo@EUQg@KSMSOOQM_@OGCGCEWMFC@GRoAFC?U@O?qCLiCJwBH]?i@BmAFO@]@}@DyAD??e@@YBI?k@D[AAKCEIEG@EDCL?D?FDHHDARG\\EJGZCHWx@Qd@ELABY|@K^Kb@[jAYjAs@fCERKJGPId@Ir@?HE`@Gn@Gb@G\\Qd@GVGZUtBUrAAHCRI~@KVCHsCrIm@lBIHIBEBCCKIe@s@U]IIiAcB_BmBi@a@u@q@}AqAiAcAwAqAGEwAqAcBcBgHwHEC?@CJc@c@WYVXb@b@BK?AgDiDiCqCo@w@[}@[i@k@m@sHgHaBiBgAeAo@e@m@k@aNkM_AkAaAaAy@u@c@[}AqAwAuAu@u@aBkBmAoAuB_BcBaByBuBY[w@kAoBkCm@_AoDeG_HwJu@kAkAsBaCwD}I}MaGyI_@a@k@k@c@a@cAeACEMScL}NIIE?EB{@iAFM@CbEsHJO`@[PUDU@MWa@S]eEyGcA_BOWM_@Wc@e@aAgAgCy@wCA@EBKe@WkAYgBFAKm@OqAQoBGkAGiACwAIC?K?U?e@As@EWG_@SBQ@@KFmD?a@GyKA_AIwMCeGCyBEgAAMAKAU?]?CAG]wCCWAk@E_HAQ?e@Am@?_CA[AsA?cAASIiN?_@B_@BQh@cC@K?MFWDWEEA?{FuDAACACMGUa@W@C?E@MGED_@l@iCe@]e@_@mCgBCC{CsB_@Yy@k@Gc@DUBYBi@Fo@BMp@{CFSv@qDFUfAeFLe@tBoJFSl@oCDS`AgEFWZyAR{@DUJc@lAoFLe@DUfA}EDUDQBOFUDULi@^kBVmAVkADMnB{IL]Ha@BKBKb@mBp@wCPu@Jg@Ja@@Kp@uCFWLk@F[t@eDFSDWRw@H_@F]j@eCFUNu@^aBDOj@cCHa@h@eCLg@Li@XsADMBOJ]l@oCb@oBDQBMXkAf@aC@IR}@Lo@BMBK^{CBSp@yELy@DY@El@cEPoABMPiA^kC@E@KBO@ERsA^iCDU@GBK@Kb@uCDYF]VgB@I@GNgABSBOb@wCDYRmABWNo@\\kABCFEV}@BGBIBIHYH]d@cBH]FWn@{CFWFWDYNw@Nu@BSDWb@{CDk@FkADg@F{@@KLmBDUFM?CBYQGA?[OKMEIGUCM?O?a@@O@QUGBKAKAAIEoGyBa@OIESGOGQGyCeAa@MeC}@oC_AYMg@QcJ_Dg@Qo@Ss@Mm@Gm@Cg@?c@@YDICc@FEBEDWFMDUFULUHWLCBaGdEIBWNILMJSLaBlA_@VqCpBKHEDGBIDE@OJEHOJQLMHKHIFCBwAbAiJvGI?GEYRIYGQLMBGX_@Fi@LwBRgDB]ZgFLwABYP}BB]Dg@B}BQ{AWaB",
+                "link": null,
+                "name": "Steel x RCC Galette Ride 78k",
+                "type": 1,
+                "distance": 78027,
+                "event_id": "81c16d98-1c9b-422a-a050-93138cb73025",
+                "created_at": "2026-01-09T22:01:09.255255",
+                "elevations": null,
+                "updated_at": "2026-01-09T22:01:09.255255",
+                "elevation_gain": 942
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "b06684f4-1b06-4885-90d5-9ca1b6233d00",
+            "url": "https://www.instagram.com/le.grew/",
+            "name": "Le Grew",
+            "picture": "https://cdn.cyclopotes.cc/bb5b89f9-a363-43b0-b19b-d67906e87db3.webp",
+            "created_at": "2025-12-30T12:36:27.874644",
+            "updated_at": "2025-12-30T12:36:27.874644",
+            "description": "Pour qu’un maximum de femmes se mettent au bikepacking\n🚴‍♀️ Sorties Gravel entre femmes📍Paris\n📝un groupe whatsapp!\n🎙Le Podcast bivytopie 🏕️",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 2
+        },
+        "id": "6cec8189-19d1-4d06-87ee-a3096b7b3869",
+        "status": 2,
+        "date": "2026-01-10T08:00:00.000Z",
+        "name": "Grew",
+        "description": null,
+        "diversity": 2,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "b06684f4-1b06-4885-90d5-9ca1b6233d00",
+        "created_at": "2026-01-08T17:37:42.016Z",
+        "updated_at": "2026-01-08T17:37:42.016Z",
+        "slug": "le-grew-grew-2026-01-10",
+        "maps": [
+            {
+                "id": "0e03d936-2a24-4872-b9f8-18ee68d3e3c5",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 2,
+                "distance": null,
+                "event_id": "6cec8189-19d1-4d06-87ee-a3096b7b3869",
+                "created_at": "2026-01-08T17:37:42.016907",
+                "elevations": null,
+                "updated_at": "2026-01-08T17:37:42.016907",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            2
+        ]
+    },
+    {
+        "group": {
+            "id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+            "url": "https://www.instagram.com/cafeducycliste_paris/",
+            "name": "Café du Cycliste Paris",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1534531/37511423/1/large.jpg",
+            "created_at": "2026-01-08T13:42:07.58001",
+            "updated_at": "2026-01-08T13:42:07.58001",
+            "description": "15 rue Saint Fiacre, Paris, France 75002",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "c6c0cff8-229c-460d-8181-e9cd8256db66",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "6ea7aade-3e2c-4c45-8019-a1230e216670",
+        "status": 3,
+        "date": "2026-01-10T08:30:00.000Z",
+        "name": "❄️Annulé/Cancelled : Cappuccino Ride #1❄️",
+        "description": "❄️Annulé en raison du risque de verglas sur les routes.❄️\n\n FRANÇAIS\n📍 Départ/Arrivée : Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Niveau : 3/5\n⚡ Allure : 33 km/h sur le plat\n🛍️ -20 % sur les maillots avant le départ\n🎁 -10 % sur toute la collection au retour\n\nRide Leaders : Edouard, Paul & Anaïs\n🚨 Casque obligatoire\n🔧 Pensez à votre kit de réparation, vos bidons, quelques snacks et un peu de monnaie.\n🔥 En bonus : -20 % sur tous les maillots avant de rouler, puis -10 % sur toute la collection à votre retour. Une bonne raison de passer par la boutique, non ?\n📸 N’oubliez pas de taguer vos photos : @cafeducycliste_paris\n====================================================\n❄️Cancelled due to risk of ice on the roads.❄️\n🇬🇧 ENGLISH\n📍 Start/Finish: Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Level: 3/5\n⚡ Pace: 33 km/h on the flat\n🛍️ 20% off jerseys before the ride\n🎁 10% off the full collection after\nRide Leaders: Edouard, Paul and Anaïs\n🚨 Helmets are mandatory\n🔧 Bring a repair kit, water bottles, snacks, and some cash just in case.\n🔥 Bonus: Get 20% off all jerseys before the ride and 10% off the full Café du Cycliste collection when we’re back.\n📸 Tag your ride shots: @cafeducycliste_paris",
+        "diversity": 1,
+        "strava_event_id": "3441095664502692164",
+        "discord_message_id": null,
+        "group_id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+        "created_at": "2026-01-08T13:44:15.608Z",
+        "updated_at": "2026-01-08T16:00:50.565Z",
+        "slug": "cafe-du-cycliste-paris-annule-cancelled-cappuccino-ride-1-2026-01-10",
+        "maps": [
+            {
+                "id": "9db1273f-bc9d-4029-879f-2d780c08e7c7",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 33000,
+                "event_id": "6ea7aade-3e2c-4c45-8019-a1230e216670",
+                "created_at": "2026-01-08T16:00:50.517792",
+                "elevations": null,
+                "updated_at": "2026-01-08T16:00:50.517792",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+            "url": "https://www.dahucafevelo.fr/",
+            "name": "DAHU Cycling Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1324289/37255137/1/large.jpg",
+            "created_at": "2025-12-30T12:29:05.243008",
+            "updated_at": "2025-12-30T12:29:05.243008",
+            "description": "Bienvenue sur le club Strava de DAHU - Café & Atelier vélo. C’est ici que vous pourrez suivre l’organisation des sorties à vélo, au départ du café !\n\n📍 Lieu de RDV : 42 rue Cauchy, 75015 PARIS\n⚠️ Port du casque obligatoire et respect des consignes de sécurité.\n\nDahu - Café & Atelier vélo : coffee shop, atelier de réparation vélo et station de lavage pour l'after !",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2fb17bdf-60ef-4b94-a37e-751828c9a3ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "921c8111-b666-443e-97ba-a5d9247eef3a",
+        "status": 2,
+        "date": "2026-01-11T08:15:00.000Z",
+        "name": "Chasse au Dahu social ride #29 ",
+        "description": "On vous propose une nouvelle chasse au Dahu au départ du café, pour fêter la rentrée et continuer sur les bonnes résolutions !\n\nUne belle occasion de rouler tous ensemble, de profiter en peloton et de terminer autour d’un bon café chaud, pour le deuxième social ride de 2026 !\n\n📍 Départ : Dahu - Café & Atelier vélo - 42 rue Cauchy, Paris 15\n\n🗓 Le dimanche 11 janvier\n\n⏰ RDV à 9h00 - départ à 9h30\n\n📏 50km — 22-24 km/h de moyenne (28-30km/h sur le plat), bonne ambiance : on part ensemble, on roule ensemble & on rentre ensemble !\n\n🗺️ Map à venir\n\n⚠️ Inscription recommandée / Port du casque obligatoire / Kit de réparation / Respect des consignes de sécurité et du code de la route\nDahu décline toute responsabilité en cas d'incident.",
+        "diversity": 1,
+        "strava_event_id": "3444403797976652922",
+        "discord_message_id": null,
+        "group_id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+        "created_at": "2026-01-08T18:01:18.689Z",
+        "updated_at": "2026-01-10T22:00:35.072Z",
+        "slug": "dahu-cycling-club-chasse-au-dahu-social-ride-29-2026-01-11",
+        "maps": [
+            {
+                "id": "ced50545-296a-4ca6-a6dd-83dae01a706f",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 50000,
+                "event_id": "921c8111-b666-443e-97ba-a5d9247eef3a",
+                "created_at": "2026-01-10T22:00:34.992243",
+                "elevations": null,
+                "updated_at": "2026-01-10T22:00:34.992243",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "bffa9eaf-ad9f-4a50-ab7c-6cb45e4a4bc5",
+            "url": "https://www.instagram.com/ridetomystery/",
+            "name": "Ride To Mystery",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/802866/17947052/2/large.jpg",
+            "created_at": "2025-12-30T12:34:34.123886",
+            "updated_at": "2025-12-30T12:34:34.123886",
+            "description": "Welcome ! La communauté RTM c'est quoi ?\n\nLe concept c'est un crew avec des sorties pour rouler et découvrir l'Idf et ses alentours ou aller toujours plus loin !\n\nLe but étant de kiffer vous avez la map, vous êtes responsable de votre sécurité. Tout comportement dangereux serra sanctionné.\n\nL'allure des rides 25-27km/h tout dépendra du D+, des conditions météo etc...\n\nOn commence ensemble, on fini ensemble 🔥\n\nN'oubliez pas que sur la route vous êtes un véhicule !\n\nLes rides sont annoncés sur insta (ridetomystery) en story et strava\n\nWelcome to RTM !",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "9317bd3d-6fc5-492b-88d3-962a107cfd4b",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "b8c167f8-bbdc-4dce-aea1-f25c7c8bd631",
+        "status": 2,
+        "date": "2026-01-11T09:00:00.000Z",
+        "name": "RTM",
+        "description": "Hello, happy new whells ! \n\nPetit ride pour la reprise au vu du temps incertain \nAllez lâche ton HT la neige s'en est allée ! \n\nDate : 11/01 \nDépart : Porte Saint Ouen 10h \n\n🗺️  68 km ⛰️  580 D+ 😈 \n⏩  25 - 27 km/h \n🌎  : @🐵LOCO 👑 \n\nMap D+\n\n🌍 map : https://www.komoot.com/fr-fr/tour/2744757263?share_token=aTOTAUMRg8mJbJPUxHtq6olPvfeXNd1ScelWq8sVfyIa1YTIN8&ref=wtd\n\nsee you this Sunday ? \n",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "bffa9eaf-ad9f-4a50-ab7c-6cb45e4a4bc5",
+        "created_at": "2026-01-09T15:26:05.433Z",
+        "updated_at": "2026-01-09T15:26:05.433Z",
+        "slug": "ride-to-mystery-rtm-2026-01-11",
+        "maps": [
+            {
+                "id": "a5606c8e-27ec-4753-873e-e182a3f2a047",
+                "map": null,
+                "link": "",
+                "name": null,
+                "type": 1,
+                "distance": null,
+                "event_id": "b8c167f8-bbdc-4dce-aea1-f25c7c8bd631",
+                "created_at": "2026-01-09T15:26:05.433193",
+                "elevations": null,
+                "updated_at": "2026-01-09T15:26:05.433193",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+            "url": "https://instagram.com/mayo.jaune",
+            "name": "Mayo Jaune",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195574/29263702/2/large.jpg",
+            "created_at": "2025-12-29T14:24:57.59123",
+            "updated_at": "2025-12-29T14:24:57.59123",
+            "description": "Balade vélo tous les lundis 20-35km.\nRDV Bastille à 19h45. Départ 20h\nAllure à 25+km/h (ce n’est pas la moyenne)\nTout type de vélo",
+            "default_pace": 1,
+            "default_type": 1,
+            "strava_club_id": "0342ae0f-3e9a-4363-9420-17b0ec1f6826",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "327b7c49-619e-4ed9-a344-78eee6b320fb",
+        "status": 2,
+        "date": "2026-01-12T19:00:00.000Z",
+        "name": "Mayo Jaune",
+        "description": "⏰ RDV : Lundi 12 janvier à 19h45 (départ 20h) sur la place de la Bastille à Paris ;\n📏 Distance : 18km ; D+ : 160m ;\n📍 Arrivée : Les Blédards, 161 Quai de Valmy, 75010 Paris ;\n⏩ Allure sur plat : 25+km/h ;\n🗺️ Cartographe : @Extragornax ;\n🏁 Guides : On verra sur place ;\n🌍 Tout le monde est le bienvenu.\n\nRappel :\nVérifiez l'état de votre vélo avant la ride ⚙️ ;\nCasque 🪖 et lampes avant et arrière 🔦 ;\nRègles à respecter lorsque l'on roule à Mayo Jaune : ⁠❓à-propos-règles ;\nRetrouvez la trace sur notre compte komoot le jour suivant de la balade ;\nSuivant la météo ou par manque de staff, la balade peut être annulée. Une annonce sera faite dans ce cas.",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+        "created_at": "2026-01-12T09:14:02.843Z",
+        "updated_at": "2026-01-12T09:14:02.843Z",
+        "slug": "mayo-jaune-2026-01-12",
+        "maps": [
+            {
+                "id": "3044249c-e5a5-41ca-afc5-e27167f291ad",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 18000,
+                "event_id": "327b7c49-619e-4ed9-a344-78eee6b320fb",
+                "created_at": "2026-01-12T09:14:02.843697",
+                "elevations": null,
+                "updated_at": "2026-01-12T09:14:02.843697",
+                "elevation_gain": 160
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+            "url": "https://www.instagram.com/panorafixe/",
+            "name": "Panorafixe",
+            "picture": "https://cdn.cyclopotes.cc/b29bc36f-22a1-427f-964a-50ac7ca8b8ee.webp",
+            "created_at": "2025-12-30T12:21:45.305476",
+            "updated_at": "2025-12-30T12:21:45.305476",
+            "description": "💥🤘 Ride fixies\n📅 Lundis 19h45 - départ 20h\n📍 Rdv Parvis Hôtel de ville\n💨 Allure 30 km/h sur le plat\n\ndiscord.gg/zDdSD7hyUa",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "f1742f39-f208-4fbb-ba33-7bb9a728b679",
+        "status": 2,
+        "date": "2026-01-12T19:00:00.000Z",
+        "name": "Panorafixe",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+        "created_at": "2026-01-12T15:56:10.920Z",
+        "updated_at": "2026-01-12T15:56:10.920Z",
+        "slug": "panorafixe-2026-01-12",
+        "maps": [
+            {
+                "id": "56bf4eda-595c-4e41-bc47-a40057d19b91",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 25000,
+                "event_id": "f1742f39-f208-4fbb-ba33-7bb9a728b679",
+                "created_at": "2026-01-12T15:56:10.920251",
+                "elevations": null,
+                "updated_at": "2026-01-12T15:56:10.920251",
+                "elevation_gain": 190
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+            "url": "https://www.instagram.com/ride_alternatif",
+            "name": "Ride Alternatif",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1216313/29939647/4/large.jpg",
+            "created_at": "2025-12-30T10:43:09.234618",
+            "updated_at": "2025-12-30T10:43:09.234618",
+            "description": "Rides urbains tous les mardis soirs, départ Paris\n🌶️🌶️ : Allure de 30-35km/h sur le plat\n🌶️🌶️🌶️ : Allure 35km/h et + sur le plat",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "67951bcd-b2bb-446d-8d4b-397c94718cfe",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "48abce86-6305-48bb-a067-fdf23bdbdde1",
+        "status": 2,
+        "date": "2026-01-13T19:00:00.000Z",
+        "name": "RA Classique 30km 🌶️🌶️",
+        "description": "Bastille 20h mardi soir !\nRide de reprise avec 2 gros murs d’habitués du RA. \nCasque ⛑️ Lumières 🔦 et Kit crevaison 🔧 Obligatoires \nRide social, on se défoule dans les côtes, le reste c’est sans dingueries ⚠️",
+        "diversity": 1,
+        "strava_event_id": "3445921481542454518",
+        "discord_message_id": null,
+        "group_id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+        "created_at": "2026-01-13T10:01:09.563Z",
+        "updated_at": "2026-01-13T18:00:19.057Z",
+        "slug": "ride-alternatif-ra-classique-30km-2026-01-13",
+        "maps": [
+            {
+                "id": "1f085cda-a885-4cba-9a5c-68e258ac6816",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": null,
+                "event_id": "48abce86-6305-48bb-a067-fdf23bdbdde1",
+                "created_at": "2026-01-13T18:00:18.261008",
+                "elevations": null,
+                "updated_at": "2026-01-13T18:00:18.261008",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+        "group": {
+            "id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+            "url": "https://www.instagram.com/paname.gravel.ride/",
+            "name": "Paname Gravel Ride",
+            "picture": "https://cdn.cyclopotes.cc/a937abe4-8c08-4cae-944e-cd7d062be376.webp",
+            "created_at": "2025-12-30T12:27:38.842835",
+            "updated_at": "2025-12-30T12:27:38.842835",
+            "description": "Chaque semaine une sortie Gravel après le boulot pour découvrir les sentier d’IDF 🚵🏼‍♂️⚙️🪵🌳🎙️🍻 \n\n𝗖𝗹𝘂𝗯 𝘀𝘁𝗿𝗮𝘃𝗮 𝗲𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗮𝘂𝘁𝗲́ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 ⬇️⬇️\nhttps://chat.whatsapp.com/CZmv9j429nRKJ710tzlv3q",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": "f23013be-99c8-4bb2-9416-b102cdd068ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-14T19:00:00.000Z",
+        "name": "PGR",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group": {
+            "id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+            "url": "https://www.instagram.com/ridedumercredi",
+            "name": "Ride Du Mercredi",
+            "picture": "https://cdn.cyclopotes.cc/d3c10432-1d74-4332-bf9a-cff0e2597241.webp",
+            "created_at": "2025-12-30T12:42:27.420185",
+            "updated_at": "2025-12-30T12:42:27.420185",
+            "description": "𝐄𝐑𝐃𝐄𝐇𝐄𝐌 !",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "2a37f67d-7446-4180-989b-a8d0c5769954",
+        "status": 2,
+        "date": "2026-01-14T19:30:00.000Z",
+        "name": "RDM",
+        "description": "Départ Beaubourg\nFinish le Solluna",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+        "created_at": "2026-01-13T16:00:52.737Z",
+        "updated_at": "2026-01-13T16:00:52.737Z",
+        "slug": "ride-du-mercredi-rdm",
+        "maps": [
+            {
+                "id": "cbe098a1-8218-42f2-922b-d34f021c2b1c",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": null,
+                "event_id": "2a37f67d-7446-4180-989b-a8d0c5769954",
+                "created_at": "2026-01-13T16:01:35.749818",
+                "elevations": null,
+                "updated_at": "2026-01-13T16:01:35.749818",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+        "group": {
+            "id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+            "url": "https://www.instagram.com/parischillracing/",
+            "name": "Paris Chill Racing",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/24435/555931/4/large.jpg",
+            "created_at": "2025-12-30T10:46:22.984593",
+            "updated_at": "2025-12-30T10:46:22.984593",
+            "description": "𝕻𝕬𝕽𝕴𝕾 𝕮𝕳𝕴𝕷𝕷 𝕽𝕬𝕮𝕴𝕹𝕲 Paris est à nous - depuis 2010\nRdv le Mercredi Place de la Republique Depart 21h 25km #parischillracing #werideparis",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "e7968cf2-1f3a-4d48-a3f3-8606cefed8f4",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-14T20:00:00.000Z",
+        "name": "PCR",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "ace37475-a574-494e-9032-825855e3b5f8",
+        "group": {
+            "id": "ace37475-a574-494e-9032-825855e3b5f8",
+            "url": "https://www.instagram.com/gow_girlsonwheels/",
+            "name": "Girls On Wheels",
+            "picture": "https://cdn.cyclopotes.cc/95bd8fcb-560a-4c39-99ff-bb3e856d90ec.webp",
+            "created_at": "2025-12-30T12:22:31.875178",
+            "updated_at": "2025-12-30T12:22:31.875178",
+            "description": "Un collectif vélo entre femmes et minorités de genre, basé à Paris !\nRDV 20h45 les mercredis Métro Cité 🚲\nDépart à 21h",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 2
+        },
+        "status": 1,
+        "date": "2026-01-14T20:00:00.000Z",
+        "name": "GOW",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+        "group": {
+            "id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+            "url": "https://www.instagram.com/saru_ride/",
+            "name": "Saru Ride",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195556/29263174/1/large.jpg",
+            "created_at": "2025-12-30T10:41:12.301384",
+            "updated_at": "2025-12-30T10:41:12.301384",
+            "description": "🌏 Paris - Île-de-France\nPour faire bouger vos gambettes\n🗺️ Extra muros\n⏰ Tous les jeudi\n🍌 Allure 30-35km/h 🍌\n🐵 Rejoignez nous 🐒🦧🦍",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2b77cb98-325a-4f7f-aa83-6966cefd6e30",
+            "discord_guild_id": "03d42e57-f667-47a7-8456-9299d60801b0",
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-15T19:00:00.000Z",
+        "name": "Saru",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "ed46c46a-c5b8-43b1-a812-5c8db37d2102",
+            "url": "https://www.classicschallenge.cc/",
+            "name": "Classics Challenge",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/198270/4281977/3/large.jpg",
+            "created_at": "2025-12-30T12:31:06.362776",
+            "updated_at": "2025-12-30T12:31:06.362776",
+            "description": "Le CLASSICS CHALLENGE est une communauté de vrais cyclistes et cyclistes vrais, réunis autour d’un format d’événements magnifiant le parcours, l’ouverture aux autres, et la qualité de l’expérience.\n\nhttps://www.instagram.com/classicschallenge.cc/",
+            "default_pace": null,
+            "default_type": null,
+            "strava_club_id": "6c8e5cad-b8d4-4a06-bbcb-5054b0deb547",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "0b8548bb-ceaa-4792-a42e-0434db20e16b",
+        "status": 2,
+        "date": "2026-01-17T07:00:00.000Z",
+        "name": "Classics Challenge",
+        "description": "Départs de la Cipale\n\n51 Av. de Gravelle, 75012 Paris\n\n8h00 - allure 35 km/h et plus\n8h15 - allure 30-35 km/h\n8h30 - allure 27-30 km/h\n8h45 - allure 25-27 km/h\n9h00 - départ de la Yellow\n9h15 - allure 23-25 km/h\n9h30 - allure 20-23 km/h",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "ed46c46a-c5b8-43b1-a812-5c8db37d2102",
+        "created_at": "2025-12-30T12:47:38.663Z",
+        "updated_at": "2025-12-30T12:47:38.663Z",
+        "slug": "classics-challenge-2026-01-17",
+        "maps": [
+            {
+                "id": "67a7b418-157a-4f4f-b4d5-b7dcc458dc7e",
+                "map": null,
+                "link": null,
+                "name": "Yellow",
+                "type": 1,
+                "distance": 91000,
+                "event_id": "0b8548bb-ceaa-4792-a42e-0434db20e16b",
+                "created_at": "2025-12-30T12:47:38.66348",
+                "elevations": null,
+                "updated_at": "2025-12-30T12:47:38.66348",
+                "elevation_gain": 557
+            },
+            {
+                "id": "26e06f55-0588-45e5-b386-7787b6aa95c8",
+                "map": null,
+                "link": null,
+                "name": "#CC Janvier 2026",
+                "type": 1,
+                "distance": 113000,
+                "event_id": "0b8548bb-ceaa-4792-a42e-0434db20e16b",
+                "created_at": "2025-12-30T12:47:38.66348",
+                "elevations": null,
+                "updated_at": "2025-12-30T12:47:38.66348",
+                "elevation_gain": 686
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+            "url": "https://www.sanslesroulettes.fr/",
+            "name": "Sans Les Roulettes",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/796901/17826609/4/large.jpg",
+            "created_at": "2025-12-30T12:30:12.03756",
+            "updated_at": "2025-12-30T12:30:12.03756",
+            "description": "Association loi 1901 - adhésion en bio⬇️\nSocial ride chaque 1er dimanche du mois\nBoucle au départ de Paris - Finish au bar ☕🍻\n\nhttps://www.instagram.com/sanslesroulettes/",
+            "default_pace": null,
+            "default_type": null,
+            "strava_club_id": "07a2a981-8afb-4289-a286-c9c579158996",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "71ec2cdf-eb7d-41d3-be17-cfb1b93ac302",
+        "status": 2,
+        "date": "2026-01-17T08:30:00.000Z",
+        "name": "SLR x Thule Store",
+        "description": "Le deuxième ride de janvier pointe le bout de son nez ! \n\nComme annoncé précédemment, on se retrouve chaque 3ème samedi du mois pour un social ride @sanslesroulettes x @thulestoreparis \n\nAu menu ce 17 janvier :\n🥐 9h30 pour le petit-déjeuner\n🚲 Route - 70km vers l’est, une map bien plate avec une pause\n🚀 22-24km/h de moyenne, plus chill que les rides SLR\n⚠️ Inscription obligatoire - une dizaine de places disponibles\n\nhttps://events.thule.com/thule-store-paris-biking-tour\n\n#Socialride #Sanslesroulettes #Thule",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+        "created_at": "2026-01-08T08:05:09.288Z",
+        "updated_at": "2026-01-09T12:01:02.983Z",
+        "slug": "sans-les-roulettes-slr-x-thule-store-2026-01-17",
+        "maps": [
+            {
+                "id": "521542b6-a618-4634-a15d-491fed2c263c",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 70000,
+                "event_id": "71ec2cdf-eb7d-41d3-be17-cfb1b93ac302",
+                "created_at": "2026-01-08T08:05:09.2881",
+                "elevations": null,
+                "updated_at": "2026-01-08T08:05:09.2881",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+            "url": "https://www.instagram.com/cafeducycliste_paris/",
+            "name": "Café du Cycliste Paris",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1534531/37511423/1/large.jpg",
+            "created_at": "2026-01-08T13:42:07.58001",
+            "updated_at": "2026-01-08T13:42:07.58001",
+            "description": "15 rue Saint Fiacre, Paris, France 75002",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "c6c0cff8-229c-460d-8181-e9cd8256db66",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "7625303b-963f-4f9d-90cb-fbe5f50138c8",
+        "status": 2,
+        "date": "2026-01-17T08:30:00.000Z",
+        "name": "Women's Cappuccino Ride #1",
+        "description": "FRANÇAIS\n📍 Départ/Arrivée : Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Niveau : 2/5\n⚡ Allure : 26km/h sur le plat\n🛍️ -20 % sur les maillots avant le départ\n🎁 -10 % sur toute la collection au retour\n\nRide Leader : Anaïs\n\n🚨 Casque obligatoire\n🔧 Pensez à votre kit de réparation, vos bidons, quelques snacks et un peu de monnaie.\n🔥 En bonus : -20 % sur tous les maillots avant de rouler, puis -10 % sur toute la collection à votre retour. Une bonne raison de passer par la boutique, non ?\n📸 N’oubliez pas de taguer vos photos : @cafeducycliste_paris\n====================================================\n🇬🇧 ENGLISH\n📍 Start/Finish: Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Level: 2/5\n⚡ Pace: 26 km/h on the flat\n🛍️ 20% off jerseys before the ride\n🎁 10% off the full collection after\n\nRide Leader: Anaïs\n\n🚨 Helmets are mandatory\n🔧 Bring a repair kit, water bottles, snacks, and some cash just in case.\n🔥 Bonus: Get 20% off all jerseys before the ride and 10% off the full Café du Cycliste collection when we’re back.\n📸 Tag your ride shots: @cafeducycliste_paris",
+        "diversity": 2,
+        "strava_event_id": "3444004042836602512",
+        "discord_message_id": null,
+        "group_id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+        "created_at": "2026-01-08T14:01:02.490Z",
+        "updated_at": "2026-01-13T18:00:29.916Z",
+        "slug": "cafe-du-cycliste-paris-women-s-cappuccino-ride-1-2026-01-17",
+        "maps": [
+            {
+                "id": "7e40500f-36df-45e2-9138-7344b9a9d916",
+                "map": "cchiHyeiMLN~BdASjBRkBpDdB@MDADMXgBEQcAg@yEmBM?@[OIh@wFdBkN|AcLx@sGlByMhC{\\d@qFlFoKl@yAG[MOJSB_@pe@q_AlLyU|AyCJEFIFa@~Qs^CUnb@uz@\\m@`@^RHTDj@IRM\\e@Ro@Hu@A}@Mu@[q@a@[JgCEg@ToHhEggATyA@_@E{@J]\\mIMA@IJ@Cg@DYXSTc@Ha@Bc@Am@Ku@Uc@Co@LeETyEj@MxABZGrC@xEKt@Kj@AjIH~CJlJNPAvDq@~HkEnKyG`A_@b@CzA@tAD|Fk@rCCh@BnALfATz@XbFlCjAT`AHlAChGwAfAMrCO~DDF{DCgDQ{IEiF@sDLqDNkCRcCZqC\\_CjAoFzAuEvAsCjAoBpDsEfAgBdAuB`@iAlAyD~@}D`AcGl@eGd@qGR{EBaCA_KKaJAeENuNHcBRyBz@yH^cF`@aEfBmOHcBFeEZ[h@w@DFVc@BBz@yAnAqC|CiIp@}ADY^y@~BkE~DeKbB_Dp@}AbCeFxC}B~DqHZ[TGtQa@dDQfIq@dEItFaAhBe@NA`@B\\JZf@Ln@^pDNt@FHHBJAfDiAb@WPC~@_@BHNOFYfAGhFc@n@MZA~F_ApAYNIf@MRAvCw@rB[r@E`DJb@D^?hCOhBUf@SlByA~GqGhEaFb@w@r@iBA@vEsP|@mEn@sDpAuLp@cE`AmFVoBDk@RoHF}QCeFEYMgGO{DOoAMgBAi@B_BWiFQ}ECyEBcHn@eSh@_SAm@BuIEg@Fa@C_C@@Is@WeAoAaDQQGc@}@oBUUE]wA_DSYo@qIMeAk@mCIGEIA_@W_Ae@qA{@_BSMMe@wDsEE?IEIWIMqBsB_DeC_@O_@Ak@HWMBGAGHa@|A{ENWJAHUnOlJyBqGqDyI{@{AiE}EwAoBOYCa@JsACSmBsD_@c@kAeA{@_AcAeC_@a@`BgSaBfSPPQQbBsScBrS^`@bAdCfBfBgBgBcAeC_@a@dBaTHAHGHQAOGSOAOFGJCP{FyAsF_AWCsGSy@nPA`Az@dArAvA|@|Aj@v@XPlA\\l@JbBL^N~AlA^^PZLp@R~AX~@Tb@zDxDdA|Ad@f@VR~@d@~@l@l@h@`@v@Vp@Hj@@j@Kf@g@pAEb@a@r@iBpFEEEFGBAFc@QMAQDSRa@lASNWEMGEIE[HeBA]GUOOWI{Aa@OBMAUQ]GoCIUJOE{De@}@IQBMIiDa@qAMM?MGq@GiFn@MFoANoBJyA?Q@GDWBo@O{AGyDi@S?SHOGeB@cFx@yCt@OAIGE?IHCVQRwAbAiA`AKNSHuCfCIRMBKHo@n@{CbEgA|Bk@tAoAdEO`AC\\u@bEi@nDo@vLOpFI\\IbFOdBo@pDOxAK|DHz@Kv@c@nKB`@I`@KhCA~@BzEF^An@`@hLF^HfEG@Bh@AlAm@`GOjEI^EzAOjAi@zCQrAa@zE]jCOt@Cl@DB_DxSAl@IRGf@InBWjB@b@EXIrDG`A@f@Kb@_@jECv@IVi@rG_@nFCPkD`L{BxJm@tBmCzH}AvD}A~BcCvCmAnAqA`BQf@If@Cx@t@|EId@KT@AYVYJiAm@MCY?mAp@s@VeBpAs@b@y@GsBHoEdA?GmEx@c@DcAGuAU}@[y@a@mC}@mCSCFQAk@Qc@WaDyBk@k@_EsFuFeIo@kAuC}L]}@Me@a@{BaAeCu@eAoAmAiAwAeBFOHILMf@A|CCT]z@E^?f@CTw@zB[n@Y`@o@j@_@TsAZrA[bAs@cAr@wBf@{@eAq@qAOb@WlEqCxPCl@Up@cFtXaGb]gDxSuBlNkBzKyBlL}@`EUl@Ub@IEeEnEc@l@g@|@FHo@pAMd@]~BYtCmAlZFb@GPK~Ag@xM@p@a@fLKn@OlDBXKVsFvsA}A~\\F@KbCKj@QHIL[dACt@Bf@F^Vh@DhAYEa@nKMRAFAf@Pr@A\\EAKfCE`@KpCF@GxAEAOtCI\\I|@GvAF?KvB@d@K~@kBte@H@Ct@I?AJXDKhCYpEMfAGdBWDWNUVOVIXM|@F~ALb@P\\}@bBQDeHhNIAsDrHE@INyA|CC?MTEN[d@GT_BbDOXSN?LsDjHaC~EYb@qApCsAdC{IhQDJy@~ASPIEK?QJI^Ff@KZiD~GEGmD~GIJ}ErJBPmYlk@MA?Ds@nA_@~@qAbCEB?FyBlEc@r@d@t@mGlMMAMbABVuDbe@e@lDBDa@vCMVA^@JYlBGCQtA@NCT]`CCJMNe@|DOj@@DEl@J@qBtOcAdK@?ALLN~@cKJA@Wh@qEv@wFJkA`AwHEAy@hGOJcCvRw@nI",
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 45245,
+                "event_id": "7625303b-963f-4f9d-90cb-fbe5f50138c8",
+                "created_at": "2026-01-13T18:00:29.11481",
+                "elevations": null,
+                "updated_at": "2026-01-13T18:00:29.11481",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+            "url": "https://www.instagram.com/cafeducycliste_paris/",
+            "name": "Café du Cycliste Paris",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1534531/37511423/1/large.jpg",
+            "created_at": "2026-01-08T13:42:07.58001",
+            "updated_at": "2026-01-08T13:42:07.58001",
+            "description": "15 rue Saint Fiacre, Paris, France 75002",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "c6c0cff8-229c-460d-8181-e9cd8256db66",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "a69c4d8a-b03e-4011-a2a6-a1d2d0009499",
+        "status": 2,
+        "date": "2026-01-17T08:30:00.000Z",
+        "name": "Cappuccino Ride #2",
+        "description": "FRANÇAIS\n📍 Départ/Arrivée : Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Niveau : 3/5\n⚡ Allure : 33 km/h sur le plat\n🛍️ -20 % sur les maillots avant le départ\n🎁 -10 % sur toute la collection au retour\n\nRide Leaders : Edouard, Paul & Anaïs\n🚨 Casque obligatoire\n🔧 Pensez à votre kit de réparation, vos bidons, quelques snacks et un peu de monnaie.\n🔥 En bonus : -20 % sur tous les maillots avant de rouler, puis -10 % sur toute la collection à votre retour. Une bonne raison de passer par la boutique, non ?\n📸 N’oubliez pas de taguer vos photos : @cafeducycliste_paris\n====================================================\n🇬🇧 ENGLISH\n📍 Start/Finish: Café du Cycliste Paris, Rue Saint-Fiacre\n🚴‍♂️ Level: 3/5\n⚡ Pace: 33 km/h on the flat\n🛍️ 20% off jerseys before the ride\n🎁 10% off the full collection after\nRide Leaders: Edouard, Paul and Anaïs\n🚨 Helmets are mandatory\n🔧 Bring a repair kit, water bottles, snacks, and some cash just in case.\n🔥 Bonus: Get 20% off all jerseys before the ride and 10% off the full Café du Cycliste collection when we’re back.\n📸 Tag your ride shots: @cafeducycliste_paris",
+        "diversity": 1,
+        "strava_event_id": "3443910641316253246",
+        "discord_message_id": null,
+        "group_id": "42e14f6f-6c5e-4dcd-8e49-0f6cdf1b20e9",
+        "created_at": "2026-01-08T14:01:02.397Z",
+        "updated_at": "2026-01-13T18:00:30.934Z",
+        "slug": "cafe-du-cycliste-paris-cappuccino-ride-2-2026-01-17",
+        "maps": [
+            {
+                "id": "be42c7aa-fab3-4c83-a6de-2a8e6c76f328",
+                "map": "e}giHgbiMoDaBaBdQMCgBzRoDrf@Kz@Cb@HLiAlPK\\k@bIO|BF^gE|l@@R}@l@g@PAx@cH|IcK~MSPwDdF}EjG[`AaJnLeIfo@aB~Vc@rDc@HOLKPQl@Ej@L`AP^ZTSzEs@rLs@vJnBlDfPtZl@x@rAbCdBhD^fAJNLBJ^vF~HGv@Mn@KJERAVBTHVv@nAfAp@~@dA~DlC`Bb@CXDj@z@xI@j@NnBLzDF\\FFPFPEPHf@n@xQhs@G`@nCpKvs@hqCHGfAjEZnBH~@K@Bp@InBU~BYbB_@|Ae@`AG\\Uf@k@jBy@bBSPOVCTiDlJk@nBeAhFyDtTKXH`AMzA[tAFd@h@nA\\Ve@hBd@iB]Wi@oAGe@qCnLMTSJCh@JRJBp@hD^lAz@fBp@`Ap@d@PRdBhAx@p@t@x@bA|Al@t@v@x@j@b@p@`@fAf@tA\\xC^j@b@b@p@Tt@`@hDJf@N^PVLJdIvEvA`AVT`@n@P`@p@zCUFa@X_AZgFnBi@?e@L[dCaA~CgAbCONc@dASTKAKBKRCV}@jBuCfEgAfD[fB}@rIaAzGS|@yCfHy@bCw@rDU`BMR?ZoAhHKVOv@m@~HkAbWu@lJkB`TUtA[vAUv@qDnGc@f@o@j@yJdHc@Tc@Lw@LAFE@Kj@[dA_@|@HPBRBpH?rAI~@Ct@AvCqDD[FeC`BKm@MEOBiA~@g@PKHa@n@aF`FiCbC`@vAZxAnFbSbG`PjZdw@Rl@tCbHd@xAn@`CfApFvDrSg@dVPfCdAhIp@jHFdBGhFDbDXhHTnLC`E[dHUvDe@vDkFz\\k@dDcCbLa@nAiCnEqCrEaEvIaFzKiAlBiCfDaHtHk@h@Wt@xB{BdImJzA{B`@s@jFmLlCoFn@{AR_@GMgAxBqJzSiAlBiCfDaHtHoAhAyBvCcA`BQb@aAvD{AjG{@|Do@vBcBbE}@~Aq@`AqA|A_A|@Ip@BVJXXTdDu@h@@b@JbC`Af@b@^n@nS`a@`BbBjAl@t@N~@J\\C~@SbAe@RLZFTChMiCn@Oh@Ud@M\\?\\HfDxAHJNHd@FvCrABPNJ^rAXh@^^r@j@NXnH~]LbADt@Cz@Kn@OX]`@OsAK[sBeCOWK[c@q@cBeBeAw@wA{@?lCEl@SlABpB[dAKh@Cp@t@@h@^Sz@[v@IbAy@hGUv@aEjIsC`Fs@fCUvBW~@QZUXm@REb@mBhDy@zB_@xCe@xF@^HVl@l@X^Xr@nB|MPr@bAbCJfB~A`D~@zAVv@F`@?ZGRy@zAkA|DaAlBGXONi@XUDl@pCVdBDjAGL?HY\\IB_ACQHGJAL@NdDtGvAfB`B`GLRHFnAjKXfEHbDCfHg@zBUdEShBwA|GSjAOpAOjCnA|V`@|EH`@JTTVTJV@vAGf@Fh@p@JVJfGJVn@@TB~As@RAFJBbDKb@Sj@Dp@~G~a@XzBm@zNO~@aEhJ_EtJ]l@k@b@EN?HDLHH`@RxF|K\\|@`AlAPf@DVxA~CbEvGvBfFOTK`AYb@YfC?h@TfCcDrISz@[rFSdAsCrIcApBgBjByAvEg@~@aBjBw@vA}@~Be@bB[f@wAzC_@tAy@bEa@nAGn@A`@kAfMa@xB_BlFKl@YlDD`AAZOp@k@`Ba@~@w@jAM`@QnA]|A}@lCoBlK}@jDS`Am@pFKPmAfASVSf@[pAe@zEk@tCM`@_AzBcApAgDtCSXQd@Gh@KpDe@dFMbFEd@gAvEaCbPq@fLKx@e@|BQ^M@{AOeCw@cAi@QQq@cAeA~CWXYJgB\\c@\\a@d@SJq@Eq@Uq@KoCrMg@]pEdC|HvDlBr@pOtEr@Zx@n@bDtFf@p@`@F|@MlAG\\IVKt@q@NGP@PPDX@`BDl@Ld@t@tBN|@Bv@A`@Gb@k@rB]xA?^H`@PXr@|@bGnFVLvB^pElAZN`ATtIdAfBb@~IzBPLDJ@RLFHKNG`@?xCr@TJJLFNL|@Ld@Df@ERILrAm@nBc@xAQzADjOtCfAZ|@d@n@d@xBdC|@l@p@V~Dr@fAFXAvAa@vAo@pAc@j@Cb@FXJh@y@Pq@P}A?kB]gFo@aEEg@CeACoLo@kJ}@mJGwADe@`BcHjDsKhCuJN[FDH?HM@OCKFIpIwDfCu@b@IQaB]cC_@gAWkAJqAF]jB{BTs@bD{L`A{CbAoB~AkBAMDKHCFDf@q@hMkM\\o@hG}ORy@~CuQfC{Pd@mA`CmE\\y@dA{Cx@aB~DyF^OL@LIFS?KRs@dGqG^o@tAuDZYRGh@?bGz@zCf@RCXQhAeAh@q@l@aAd@gAb@k@PQdAc@LQ@KY_BEe@BYx@eDDa@C_@c@m@y@o@w@e@OWEYTmDAcBMgABu@KAEOOW[kAyA}Dc@eBq@oDUsCWaEAgBTiIGsFG{Aq@gHQaDc@sDy@sEc@oSQmN?wCNmA~DwOz@wC`E}K\\eBCkBUkBUiAWw@_EyGw@gA{DyD{@gA_GcKeFiKgCeEeA{AW[mJqH_@SsAOWKOs@@g@C_@Se@YSKC]F_@Ek@c@cBeCBG@UGQMEMHiBoCkAwAyAaBGC|@kDVs@nB{Dp@}BjA_DjCcGvAaEXo@VYjC_B\\[XaAlBkQp@kH@a@DADIEODwILkB`BqOnGfCfMtIXH~Dp@d@R`@^N`@KPDPDFLEh@`BPPf@FtA|@dEdGv@`A|@|@pBzAlEvC`@P`@FVEpBw@l@QVDVPTv@j@lGR`BNn@Zh@tAlBhAtAbAj@vBp@v@Hv@AnAM^@JDl@n@l@z@d@rAl@vBr@hBdAdB~OxUvBtCtEnEhAzApBnDtEzJ~@bBt@`Ad@b@d@XxGjBvBoGtB}Gb@kAr@u@`@Sb@Er@Fx@\\bKbKtAnAxB`CjBgGv@kBRy@z@qBHGVHf@^RJd@LtB\\jH`AHaA@DKz@hAVpBz@bAeE`A_DbFiK|FmLdCoF`CgEhBuCRKXi@Vm@VyAPe@b@eE?]t@qHJWRiBLyA?]l@_GBkAb@s@o@kAa@}@Oi@OkACo@wAaJQ}@_@eDBY?wAm@yMQkCK}DeC}j@g@cNM{@oBcd@yCat@?qBFwDGw@B{ACCBYy@a@fE{s@N}AvBeMJFlCoOlIyd@pBmKaAk@[a@_GiDk@USAwEeCw@e@tIog@|AiIfJ}h@PoADk@@}@_@me@QoLOaXEi@TQLWFW@a@C_@KYMO[KIAO@YXgB_DSWoDiHoBqDoFiL_I}OWq@Mi@m@oIK}BHQ?mAEUD}CHy\\[aDEACGDQu@eH_AiKaBuPA_AEg@My@Wq@Ye@[[o@]yHsI]i@iE_Fs@aB_DgIKGmCgHG[UUg@Q{@Mi@?_@E_@MkAQ}AKc@BgAKk@SgN{Ic@]aN}TkCwE}AaDBOCKECIByFcLe@cAOg@iA{FScB]mFKeAGqAK}@A]@WIOi@aEWeAiDuKaDqKOo@?WKMGAaAoDmAeFwAuH_CwJqA}FGa@}@{CiB_QZ}Df@sCIGBOCGGEWs@OKk@@WLU@UOIQgEyREa@DWAGh@_@z@y@|DwFpDaJZe@fBiEb@m@jCyGrBoGhDkNPmAPgBFmCK_GYcFWcCq@iEiAiG[wBsAwGcBoHg@_Bm@}AiA{BoAgBeAmA{@{@oEgHyCcEg@w@yCwFEe@[{@yB{Eq@qA_@g@cAcBiAcB}AmBi@a@sCcCcGmFwPkQEHqD}De@kADGYg@aJwIaBiBgAeAm@e@qOuN_AmAyBwBc@[wDeDcFsFuB}A_FwEY]sEuGqDeGaH{J}B{DaCyDaRwXsDuDQYaL}NKIID}@kAmLcPg@}AgCyLmByNIcCo@cJJGCy@EQEi@CiEGsA_@uCCgA?]B[Uc^@}AE_AGiM@qCIaBM}WF_@HM@SXw@vAqGGSeAs@EBg@AW@ODGFQBQGiCgB_Ak@IM_@gAe@a@Ia@[LeO}JHe@_A{IIGgB}RaBkPY}DcAoJyCe[SoDD@@e@xD_c@fD|A",
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": 82500,
+                "event_id": "a69c4d8a-b03e-4011-a2a6-a1d2d0009499",
+                "created_at": "2026-01-13T18:00:28.4328",
+                "elevations": null,
+                "updated_at": "2026-01-13T18:00:28.4328",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "57d45243-a295-4272-9fe9-3e8b6295ed41",
+            "url": "https://www.odos.guide/",
+            "name": "Odos",
+            "picture": "https://cdn.cyclopotes.cc/361af3d3-8b01-4095-b746-260855b97ad9.webp",
+            "created_at": "2025-12-30T12:24:26.725882",
+            "updated_at": "2025-12-30T12:24:26.725882",
+            "description": "Deux dimanches par mois. Une sortie Gravel et une promenade urbain",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "88f3d36b-c24b-40c8-9144-ceb31660a4b4",
+        "status": 1,
+        "date": "2026-01-18T07:30:00.000Z",
+        "name": "Odos",
+        "description": "Melun",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "57d45243-a295-4272-9fe9-3e8b6295ed41",
+        "created_at": "2025-12-30T12:57:18.072Z",
+        "updated_at": "2025-12-30T12:57:18.072Z",
+        "slug": "odos-2026-01-18",
+        "maps": [
+            {
+                "id": "eac4e000-3375-4d16-9e96-bf35e1782326",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 2,
+                "distance": null,
+                "event_id": "88f3d36b-c24b-40c8-9144-ceb31660a4b4",
+                "created_at": "2025-12-30T12:57:18.072531",
+                "elevations": null,
+                "updated_at": "2025-12-30T12:57:18.072531",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+        "group": {
+            "id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+            "url": "https://www.dahucafevelo.fr/",
+            "name": "DAHU Cycling Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1324289/37255137/1/large.jpg",
+            "created_at": "2025-12-30T12:29:05.243008",
+            "updated_at": "2025-12-30T12:29:05.243008",
+            "description": "Bienvenue sur le club Strava de DAHU - Café & Atelier vélo. C’est ici que vous pourrez suivre l’organisation des sorties à vélo, au départ du café !\n\n📍 Lieu de RDV : 42 rue Cauchy, 75015 PARIS\n⚠️ Port du casque obligatoire et respect des consignes de sécurité.\n\nDahu - Café & Atelier vélo : coffee shop, atelier de réparation vélo et station de lavage pour l'after !",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2fb17bdf-60ef-4b94-a37e-751828c9a3ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-18T08:15:00.000Z",
+        "name": "Chasse au Dahu",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "52bd26ad-4a44-4695-ad05-838adf23defd",
+            "url": "https://www.instagram.com/les.bikettes.idf/",
+            "name": "Les Bikettes d'Ile de France",
+            "picture": "https://cdn.cyclopotes.cc/960dd0ee-a6ae-4289-a4dd-a11ea82901fc.webp",
+            "created_at": "2025-12-30T12:32:04.47821",
+            "updated_at": "2025-12-30T12:32:04.47821",
+            "description": "🚲2 randos gravel par mois\n🚂au départ d'une gare en IDF\n🐑ride pour toutes et tous !",
+            "default_pace": 1,
+            "default_type": 2,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "b232eb84-33d9-486f-a14f-d9646b9af7b3",
+        "status": 1,
+        "date": "2026-01-18T09:00:00.000Z",
+        "name": "1er Ride Bikette 2026",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "52bd26ad-4a44-4695-ad05-838adf23defd",
+        "created_at": "2025-12-30T13:12:10.269Z",
+        "updated_at": "2025-12-30T13:12:10.269Z",
+        "slug": "les-bikettes-d-ile-de-france-1er-ride-bikette-2026-2026-01-18",
+        "maps": [
+            {
+                "id": "3a8e6645-4c24-4884-a522-143b7ddb2d0f",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 2,
+                "distance": null,
+                "event_id": "b232eb84-33d9-486f-a14f-d9646b9af7b3",
+                "created_at": "2025-12-30T13:12:31.444849",
+                "elevations": null,
+                "updated_at": "2025-12-30T13:12:31.444849",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+        "group": {
+            "id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+            "url": "https://instagram.com/mayo.jaune",
+            "name": "Mayo Jaune",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195574/29263702/2/large.jpg",
+            "created_at": "2025-12-29T14:24:57.59123",
+            "updated_at": "2025-12-29T14:24:57.59123",
+            "description": "Balade vélo tous les lundis 20-35km.\nRDV Bastille à 19h45. Départ 20h\nAllure à 25+km/h (ce n’est pas la moyenne)\nTout type de vélo",
+            "default_pace": 1,
+            "default_type": 1,
+            "strava_club_id": "0342ae0f-3e9a-4363-9420-17b0ec1f6826",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-19T19:00:00.000Z",
+        "name": "Mayo Jaune",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+        "group": {
+            "id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+            "url": "https://www.instagram.com/panorafixe/",
+            "name": "Panorafixe",
+            "picture": "https://cdn.cyclopotes.cc/b29bc36f-22a1-427f-964a-50ac7ca8b8ee.webp",
+            "created_at": "2025-12-30T12:21:45.305476",
+            "updated_at": "2025-12-30T12:21:45.305476",
+            "description": "💥🤘 Ride fixies\n📅 Lundis 19h45 - départ 20h\n📍 Rdv Parvis Hôtel de ville\n💨 Allure 30 km/h sur le plat\n\ndiscord.gg/zDdSD7hyUa",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-19T19:00:00.000Z",
+        "name": "Panorafixe",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+        "group": {
+            "id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+            "url": "https://www.instagram.com/ride_alternatif",
+            "name": "Ride Alternatif",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1216313/29939647/4/large.jpg",
+            "created_at": "2025-12-30T10:43:09.234618",
+            "updated_at": "2025-12-30T10:43:09.234618",
+            "description": "Rides urbains tous les mardis soirs, départ Paris\n🌶️🌶️ : Allure de 30-35km/h sur le plat\n🌶️🌶️🌶️ : Allure 35km/h et + sur le plat",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "67951bcd-b2bb-446d-8d4b-397c94718cfe",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-20T19:00:00.000Z",
+        "name": "Ride Alternatif",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+        "group": {
+            "id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+            "url": "https://www.instagram.com/paname.gravel.ride/",
+            "name": "Paname Gravel Ride",
+            "picture": "https://cdn.cyclopotes.cc/a937abe4-8c08-4cae-944e-cd7d062be376.webp",
+            "created_at": "2025-12-30T12:27:38.842835",
+            "updated_at": "2025-12-30T12:27:38.842835",
+            "description": "Chaque semaine une sortie Gravel après le boulot pour découvrir les sentier d’IDF 🚵🏼‍♂️⚙️🪵🌳🎙️🍻 \n\n𝗖𝗹𝘂𝗯 𝘀𝘁𝗿𝗮𝘃𝗮 𝗲𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗮𝘂𝘁𝗲́ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 ⬇️⬇️\nhttps://chat.whatsapp.com/CZmv9j429nRKJ710tzlv3q",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": "f23013be-99c8-4bb2-9416-b102cdd068ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-21T19:00:00.000Z",
+        "name": "PGR",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+        "group": {
+            "id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+            "url": "https://www.instagram.com/ridedumercredi",
+            "name": "Ride Du Mercredi",
+            "picture": "https://cdn.cyclopotes.cc/d3c10432-1d74-4332-bf9a-cff0e2597241.webp",
+            "created_at": "2025-12-30T12:42:27.420185",
+            "updated_at": "2025-12-30T12:42:27.420185",
+            "description": "𝐄𝐑𝐃𝐄𝐇𝐄𝐌 !",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-21T19:30:00.000Z",
+        "name": "RDM",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+        "group": {
+            "id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+            "url": "https://www.instagram.com/parischillracing/",
+            "name": "Paris Chill Racing",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/24435/555931/4/large.jpg",
+            "created_at": "2025-12-30T10:46:22.984593",
+            "updated_at": "2025-12-30T10:46:22.984593",
+            "description": "𝕻𝕬𝕽𝕴𝕾 𝕮𝕳𝕴𝕷𝕷 𝕽𝕬𝕮𝕴𝕹𝕲 Paris est à nous - depuis 2010\nRdv le Mercredi Place de la Republique Depart 21h 25km #parischillracing #werideparis",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "e7968cf2-1f3a-4d48-a3f3-8606cefed8f4",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-21T20:00:00.000Z",
+        "name": "PCR",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "ace37475-a574-494e-9032-825855e3b5f8",
+        "group": {
+            "id": "ace37475-a574-494e-9032-825855e3b5f8",
+            "url": "https://www.instagram.com/gow_girlsonwheels/",
+            "name": "Girls On Wheels",
+            "picture": "https://cdn.cyclopotes.cc/95bd8fcb-560a-4c39-99ff-bb3e856d90ec.webp",
+            "created_at": "2025-12-30T12:22:31.875178",
+            "updated_at": "2025-12-30T12:22:31.875178",
+            "description": "Un collectif vélo entre femmes et minorités de genre, basé à Paris !\nRDV 20h45 les mercredis Métro Cité 🚲\nDépart à 21h",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 2
+        },
+        "status": 1,
+        "date": "2026-01-21T20:00:00.000Z",
+        "name": "GOW",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+        "group": {
+            "id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+            "url": "https://www.instagram.com/saru_ride/",
+            "name": "Saru Ride",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195556/29263174/1/large.jpg",
+            "created_at": "2025-12-30T10:41:12.301384",
+            "updated_at": "2025-12-30T10:41:12.301384",
+            "description": "🌏 Paris - Île-de-France\nPour faire bouger vos gambettes\n🗺️ Extra muros\n⏰ Tous les jeudi\n🍌 Allure 30-35km/h 🍌\n🐵 Rejoignez nous 🐒🦧🦍",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2b77cb98-325a-4f7f-aa83-6966cefd6e30",
+            "discord_guild_id": "03d42e57-f667-47a7-8456-9299d60801b0",
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-22T19:00:00.000Z",
+        "name": "Saru",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "57d45243-a295-4272-9fe9-3e8b6295ed41",
+            "url": "https://www.odos.guide/",
+            "name": "Odos",
+            "picture": "https://cdn.cyclopotes.cc/361af3d3-8b01-4095-b746-260855b97ad9.webp",
+            "created_at": "2025-12-30T12:24:26.725882",
+            "updated_at": "2025-12-30T12:24:26.725882",
+            "description": "Deux dimanches par mois. Une sortie Gravel et une promenade urbain",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "1d65749d-32cb-4d89-a178-14f00ab7e676",
+        "status": 1,
+        "date": "2026-01-25T07:30:00.000Z",
+        "name": "Odos",
+        "description": "East of Eden",
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "57d45243-a295-4272-9fe9-3e8b6295ed41",
+        "created_at": "2025-12-30T12:56:02.889Z",
+        "updated_at": "2025-12-30T12:56:02.889Z",
+        "slug": "odos-2026-01-25",
+        "maps": [
+            {
+                "id": "ae517bbe-2844-4d12-9a0b-d74f453eca56",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": null,
+                "event_id": "1d65749d-32cb-4d89-a178-14f00ab7e676",
+                "created_at": "2025-12-30T12:56:02.889735",
+                "elevations": null,
+                "updated_at": "2025-12-30T12:56:02.889735",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+        "group": {
+            "id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+            "url": "https://www.dahucafevelo.fr/",
+            "name": "DAHU Cycling Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1324289/37255137/1/large.jpg",
+            "created_at": "2025-12-30T12:29:05.243008",
+            "updated_at": "2025-12-30T12:29:05.243008",
+            "description": "Bienvenue sur le club Strava de DAHU - Café & Atelier vélo. C’est ici que vous pourrez suivre l’organisation des sorties à vélo, au départ du café !\n\n📍 Lieu de RDV : 42 rue Cauchy, 75015 PARIS\n⚠️ Port du casque obligatoire et respect des consignes de sécurité.\n\nDahu - Café & Atelier vélo : coffee shop, atelier de réparation vélo et station de lavage pour l'after !",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2fb17bdf-60ef-4b94-a37e-751828c9a3ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-25T08:15:00.000Z",
+        "name": "Chasse au Dahu",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+        "group": {
+            "id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+            "url": "https://instagram.com/mayo.jaune",
+            "name": "Mayo Jaune",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195574/29263702/2/large.jpg",
+            "created_at": "2025-12-29T14:24:57.59123",
+            "updated_at": "2025-12-29T14:24:57.59123",
+            "description": "Balade vélo tous les lundis 20-35km.\nRDV Bastille à 19h45. Départ 20h\nAllure à 25+km/h (ce n’est pas la moyenne)\nTout type de vélo",
+            "default_pace": 1,
+            "default_type": 1,
+            "strava_club_id": "0342ae0f-3e9a-4363-9420-17b0ec1f6826",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-26T19:00:00.000Z",
+        "name": "Mayo Jaune",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+        "group": {
+            "id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+            "url": "https://www.instagram.com/panorafixe/",
+            "name": "Panorafixe",
+            "picture": "https://cdn.cyclopotes.cc/b29bc36f-22a1-427f-964a-50ac7ca8b8ee.webp",
+            "created_at": "2025-12-30T12:21:45.305476",
+            "updated_at": "2025-12-30T12:21:45.305476",
+            "description": "💥🤘 Ride fixies\n📅 Lundis 19h45 - départ 20h\n📍 Rdv Parvis Hôtel de ville\n💨 Allure 30 km/h sur le plat\n\ndiscord.gg/zDdSD7hyUa",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-26T19:00:00.000Z",
+        "name": "Panorafixe",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+        "group": {
+            "id": "575ffa9f-866b-4916-9298-8b4d720b9fbc",
+            "url": "https://www.instagram.com/ride_alternatif",
+            "name": "Ride Alternatif",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1216313/29939647/4/large.jpg",
+            "created_at": "2025-12-30T10:43:09.234618",
+            "updated_at": "2025-12-30T10:43:09.234618",
+            "description": "Rides urbains tous les mardis soirs, départ Paris\n🌶️🌶️ : Allure de 30-35km/h sur le plat\n🌶️🌶️🌶️ : Allure 35km/h et + sur le plat",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "67951bcd-b2bb-446d-8d4b-397c94718cfe",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-27T19:00:00.000Z",
+        "name": "Ride Alternatif",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+        "group": {
+            "id": "8e8a388a-5ac5-439c-832b-2ef02b3f839f",
+            "url": "https://www.instagram.com/paname.gravel.ride/",
+            "name": "Paname Gravel Ride",
+            "picture": "https://cdn.cyclopotes.cc/a937abe4-8c08-4cae-944e-cd7d062be376.webp",
+            "created_at": "2025-12-30T12:27:38.842835",
+            "updated_at": "2025-12-30T12:27:38.842835",
+            "description": "Chaque semaine une sortie Gravel après le boulot pour découvrir les sentier d’IDF 🚵🏼‍♂️⚙️🪵🌳🎙️🍻 \n\n𝗖𝗹𝘂𝗯 𝘀𝘁𝗿𝗮𝘃𝗮 𝗲𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗮𝘂𝘁𝗲́ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 ⬇️⬇️\nhttps://chat.whatsapp.com/CZmv9j429nRKJ710tzlv3q",
+            "default_pace": 2,
+            "default_type": 2,
+            "strava_club_id": "f23013be-99c8-4bb2-9416-b102cdd068ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-28T19:00:00.000Z",
+        "name": "PGR",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+        "group": {
+            "id": "80a208bb-8110-4da9-81a6-35696cf6944f",
+            "url": "https://www.instagram.com/ridedumercredi",
+            "name": "Ride Du Mercredi",
+            "picture": "https://cdn.cyclopotes.cc/d3c10432-1d74-4332-bf9a-cff0e2597241.webp",
+            "created_at": "2025-12-30T12:42:27.420185",
+            "updated_at": "2025-12-30T12:42:27.420185",
+            "description": "𝐄𝐑𝐃𝐄𝐇𝐄𝐌 !",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-28T19:30:00.000Z",
+        "name": "RDM",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+        "group": {
+            "id": "545ea4de-690f-4d96-8330-3d3a8dd6cbdc",
+            "url": "https://www.instagram.com/parischillracing/",
+            "name": "Paris Chill Racing",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/24435/555931/4/large.jpg",
+            "created_at": "2025-12-30T10:46:22.984593",
+            "updated_at": "2025-12-30T10:46:22.984593",
+            "description": "𝕻𝕬𝕽𝕴𝕾 𝕮𝕳𝕴𝕷𝕷 𝕽𝕬𝕮𝕴𝕹𝕲 Paris est à nous - depuis 2010\nRdv le Mercredi Place de la Republique Depart 21h 25km #parischillracing #werideparis",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": "e7968cf2-1f3a-4d48-a3f3-8606cefed8f4",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-28T20:00:00.000Z",
+        "name": "PCR",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "ace37475-a574-494e-9032-825855e3b5f8",
+        "group": {
+            "id": "ace37475-a574-494e-9032-825855e3b5f8",
+            "url": "https://www.instagram.com/gow_girlsonwheels/",
+            "name": "Girls On Wheels",
+            "picture": "https://cdn.cyclopotes.cc/95bd8fcb-560a-4c39-99ff-bb3e856d90ec.webp",
+            "created_at": "2025-12-30T12:22:31.875178",
+            "updated_at": "2025-12-30T12:22:31.875178",
+            "description": "Un collectif vélo entre femmes et minorités de genre, basé à Paris !\nRDV 20h45 les mercredis Métro Cité 🚲\nDépart à 21h",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 2
+        },
+        "status": 1,
+        "date": "2026-01-28T20:00:00.000Z",
+        "name": "GOW",
+        "types": [
+            2
+        ]
+    },
+    {
+        "group_id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+        "group": {
+            "id": "35f7959e-7412-42ec-93b7-509d5eb65e0f",
+            "url": "https://www.instagram.com/saru_ride/",
+            "name": "Saru Ride",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195556/29263174/1/large.jpg",
+            "created_at": "2025-12-30T10:41:12.301384",
+            "updated_at": "2025-12-30T10:41:12.301384",
+            "description": "🌏 Paris - Île-de-France\nPour faire bouger vos gambettes\n🗺️ Extra muros\n⏰ Tous les jeudi\n🍌 Allure 30-35km/h 🍌\n🐵 Rejoignez nous 🐒🦧🦍",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2b77cb98-325a-4f7f-aa83-6966cefd6e30",
+            "discord_guild_id": "03d42e57-f667-47a7-8456-9299d60801b0",
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-01-29T19:00:00.000Z",
+        "name": "Saru",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group": {
+            "id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+            "url": "https://www.sanslesroulettes.fr/",
+            "name": "Sans Les Roulettes",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/796901/17826609/4/large.jpg",
+            "created_at": "2025-12-30T12:30:12.03756",
+            "updated_at": "2025-12-30T12:30:12.03756",
+            "description": "Association loi 1901 - adhésion en bio⬇️\nSocial ride chaque 1er dimanche du mois\nBoucle au départ de Paris - Finish au bar ☕🍻\n\nhttps://www.instagram.com/sanslesroulettes/",
+            "default_pace": null,
+            "default_type": null,
+            "strava_club_id": "07a2a981-8afb-4289-a286-c9c579158996",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "id": "4e2053cf-8434-403e-a7cd-0f1e83d63e13",
+        "status": 1,
+        "date": "2026-02-01T07:45:00.000Z",
+        "name": "Winter Warriors #17 : Chandeleur Power",
+        "description": null,
+        "diversity": 1,
+        "strava_event_id": null,
+        "discord_message_id": null,
+        "group_id": "5d724e9e-4c3a-40df-87e0-ae9418a22515",
+        "created_at": "2026-01-08T08:06:09.870Z",
+        "updated_at": "2026-01-09T12:01:02.983Z",
+        "slug": "sans-les-roulettes-winter-warriors-17-chandeleur-power-2026-02-01",
+        "maps": [
+            {
+                "id": "e5e9bdc6-6259-4774-adac-cb0d87c93068",
+                "map": null,
+                "link": null,
+                "name": null,
+                "type": 1,
+                "distance": null,
+                "event_id": "4e2053cf-8434-403e-a7cd-0f1e83d63e13",
+                "created_at": "2026-01-08T08:06:09.870172",
+                "elevations": null,
+                "updated_at": "2026-01-08T08:06:09.870172",
+                "elevation_gain": null
+            }
+        ],
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+        "group": {
+            "id": "adec9ec2-f029-4cf4-9331-e72e16c4456c",
+            "url": "https://www.dahucafevelo.fr/",
+            "name": "DAHU Cycling Club",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1324289/37255137/1/large.jpg",
+            "created_at": "2025-12-30T12:29:05.243008",
+            "updated_at": "2025-12-30T12:29:05.243008",
+            "description": "Bienvenue sur le club Strava de DAHU - Café & Atelier vélo. C’est ici que vous pourrez suivre l’organisation des sorties à vélo, au départ du café !\n\n📍 Lieu de RDV : 42 rue Cauchy, 75015 PARIS\n⚠️ Port du casque obligatoire et respect des consignes de sécurité.\n\nDahu - Café & Atelier vélo : coffee shop, atelier de réparation vélo et station de lavage pour l'after !",
+            "default_pace": 2,
+            "default_type": 1,
+            "strava_club_id": "2fb17bdf-60ef-4b94-a37e-751828c9a3ba",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-02-01T08:15:00.000Z",
+        "name": "Chasse au Dahu",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+        "group": {
+            "id": "93404b6b-68fe-4bee-b294-d02d3f2d4dc5",
+            "url": "https://instagram.com/mayo.jaune",
+            "name": "Mayo Jaune",
+            "picture": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1195574/29263702/2/large.jpg",
+            "created_at": "2025-12-29T14:24:57.59123",
+            "updated_at": "2025-12-29T14:24:57.59123",
+            "description": "Balade vélo tous les lundis 20-35km.\nRDV Bastille à 19h45. Départ 20h\nAllure à 25+km/h (ce n’est pas la moyenne)\nTout type de vélo",
+            "default_pace": 1,
+            "default_type": 1,
+            "strava_club_id": "0342ae0f-3e9a-4363-9420-17b0ec1f6826",
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-02-02T19:00:00.000Z",
+        "name": "Mayo Jaune",
+        "types": [
+            1
+        ]
+    },
+    {
+        "group_id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+        "group": {
+            "id": "7ae9c7a3-d95d-44a9-a6cd-d2aea154eb56",
+            "url": "https://www.instagram.com/panorafixe/",
+            "name": "Panorafixe",
+            "picture": "https://cdn.cyclopotes.cc/b29bc36f-22a1-427f-964a-50ac7ca8b8ee.webp",
+            "created_at": "2025-12-30T12:21:45.305476",
+            "updated_at": "2025-12-30T12:21:45.305476",
+            "description": "💥🤘 Ride fixies\n📅 Lundis 19h45 - départ 20h\n📍 Rdv Parvis Hôtel de ville\n💨 Allure 30 km/h sur le plat\n\ndiscord.gg/zDdSD7hyUa",
+            "default_pace": 3,
+            "default_type": 1,
+            "strava_club_id": null,
+            "discord_guild_id": null,
+            "default_diversity": 1
+        },
+        "status": 1,
+        "date": "2026-02-02T19:00:00.000Z",
+        "name": "Panorafixe",
+        "types": [
+            1
+        ]
+    }
+]
