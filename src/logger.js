@@ -2,6 +2,7 @@ import pino from 'pino';
 
 const logFile = process.env.LOG_FILE;
 const level = process.env.LOG_LEVEL || 'info';
+
 let logger;
 if (logFile) {
   // pino.destination accepts a file path

@@ -1,38 +1,46 @@
 # cyclopotes-ical
 
-## How it is implemented
+A Node.js tool to fetch cycling events from [cyclopotes.cc](https://cyclopotes.cc) and generate an iCal (`.ics`) file. It can also upload the generated file to an AWS S3 bucket.
 
-This application runs on Node.js (at least v18.17.1) on a Raspberry Pi server.
-The application fetches events from `https://cyclopotes.cc/events` using an HTTP POST request.
-By default the request body includes filters and the `start`/`end` dates set to the current month's first and last day (e.g. `{"start":"2026-01-01","end":"2026-01-31",...}`).
-An example of the data is stored in `events.json`.
+## Features
 
-The list of events is transformed into the iCal format:
-- the date is used as the start date of the event
-- by default, the event duration is 2h
-- the event title is the group name
-- the event description contains:
-  - the group description
-  - the group URL
-
-The various steps are logged to a configurable log file.
-
-Once the iCal file is generated, it is uploaded to an S3 bucket specified in environment variables.
-The `.env.example` file contains an example of the required env variables.
-The file on the S3 bucket has the necessary permissions to be served over HTTP publicly.
+- Fetches events from `https://cyclopotes.cc/events` (POST request).
+- Generates an iCal file with event details (summary, description, time).
+- Optionally uploads the `.ics` file to S3.
+- Can run as a standalone script or as an HTTP server.
 
 ## Usage
 
-1. Copy `.env.example` to `.env` and edit env values (S3_BUCKET, S3_KEY, etc.)
-2. Install dependencies: `npm install`
-3. Generate the iCal file and upload to S3 (when `S3_BUCKET` is set):
-   `npm run generate`
-4. Logs are written to the file configured by `LOG_FILE` (default `./cyclopotes.log`).
+### Local Development
 
-### Environment variables
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Create a `.env` file (see `.env.example`).
+3. Run the script:
+   ```bash
+   npm start
+   ```
 
-- `EVENT_URL` (default: https://cyclopotes.cc/events)
-- `LOG_FILE` path for logs
-- `S3_BUCKET`, `S3_KEY` for upload
-- `AWS_REGION` (default `eu-west-1`) and AWS credentials via env or instance profile
+### Docker
 
+You can run the application using Docker Compose.
+
+1. Build and start the container:
+   ```bash
+   docker-compose up --build
+   ```
+2. The server will be available at `http://localhost:3000`.
+   - `GET /` or `GET /calendar` returns the generated iCal file.
+
+### Environment Variables
+
+See `.env.example` for a full list of supported variables.
+
+- `EVENT_URL`: URL to fetch events from.
+- `HTTP_SERVER`: Set to `true` to run as an HTTP server.
+- `PORT`: Port to listen on (default: 3000).
+- `S3_BUCKET`: S3 bucket name for uploading the `.ics` file.
+- `S3_KEY`: S3 object key (filename).
+- `AWS_REGION`: AWS region.
